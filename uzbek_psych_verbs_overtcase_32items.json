@@ -1,0 +1,578 @@
+[
+  {
+    "id": "ES_navamoq_item1",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "navamoq",
+    "item_number": 1,
+    "verb_definition": "Ba'zan odamlar bir-biriga nava qiladi. Nava — bu kimdadir bor narsani xohlaganingda bo'ladi. Yoki kimnidir ko'rib, 'menda ham shunaqa narsa bo'lsa edi' deb o'ylasang, bu nava bo'ladi. Nava qilish odatda tez o'tib ketmaydi. U odamni har safar ko'rsang, yana nava bo'lishi mumkin.",
+    "story_part1": "Kuchukcha va Maymunchani ko'ryapsanmi? Kuchukchaning juda chiroyli yangi o'yinchoqlari bor edi. Maymunchaning esa faqat bitta eski o'yinchog'i bor edi. Kuchukchaga har doim yangi o'yinchoqlar olib kelishardi, Lekin Maymunchaga hech qachon yangi o'yinchoq olib berishmasdi. Maymuncha har doim Kuchukchani juda omadli deb o'ylardi.",
+    "story_part2": "Maymuncha va Quyonchani ko'ryapsanmi? Maymuncha har kuni tashqarida o'ynar edi. Quyoncha esa kamdan-kam o'ynar edi. Maymuncha xohlagan paytida yugurardi, xohlaganicha shokolad yerdi. Lekin Quyoncha bunday qila olmasdi. Quyoncha doim Maymunchani juda omadli deb o'ylardi.",
+    "test_question": "Maymuncha kimga nava qilardi?",
+    "answer_choices": {
+      "dative_ES": "Kuchukchaga",
+      "accusative_EO": "Quyonchani"
+    },
+    "target_animal": "puppy",
+    "expected_preference": "ES",
+    "notes": "ES condition expects low EO preference (prefer dative answer)"
+  },
+  {
+    "id": "ES_navamoq_item2",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "navamoq",
+    "item_number": 2,
+    "verb_definition": "Ba'zan odamlar bir-biriga nava qiladi. Nava — bu kimdadir bor narsani xohlaganingda bo'ladi. Yoki kimnidir ko'rib, 'menda ham shunaqa narsa bo'lsa edi' deb o'ylasang, bu nava bo'ladi. Nava qilish odatda tez o'tib ketmaydi. U odamni har safar ko'rsang, yana nava bo'lishi mumkin.",
+    "story_part1": "Quyoncha va Kuchukchani ko'ryapsanmi? Quyoncha har doim parkka o'ynashga borardi. Quyoncha istagan payti arg'imchog'da uchardi. Kuchukcha esa bunday o'yinlar o'ynay olmasdi, U ko'pincha uyda bir o'zi o'ynab o'tirardi. Kuchukcha doim Quyonchani juda omadli deb o'ylaydi.",
+    "story_part2": "Quyoncha va Maymunchani ko'ryapsanmi? Maymunchaning juda chiroyli yangi mashinalari, vertolyotlari bor edi. Quyonchada esa faqat bir dona eski vertolyotchasi bor edi. Maymunchaga tez-tez samalyotchalar, mashinachalar olib berishardi, Lekin Quyoncha hech qachon yangi samalyotchalar olmasdi. Quyoncha doimo Maymunchani juda omadli deb o'ylaydi.",
+    "test_question": "Quyoncha kimga nava qilardi?",
+    "answer_choices": {
+      "dative_ES": "Maymunchaga",
+      "accusative_EO": "Kuchukchani"
+    },
+    "target_animal": "monkey",
+    "expected_preference": "ES",
+    "notes": "ES condition expects low EO preference (prefer dative answer)"
+  },
+  {
+    "id": "ES_navamoq_item3",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "navamoq",
+    "item_number": 3,
+    "verb_definition": "Ba'zan odamlar bir-biriga nava qiladi. Nava — bu kimdadir bor narsani xohlaganingda bo'ladi. Yoki kimnidir ko'rib, 'menda ham shunaqa narsa bo'lsa edi' deb o'ylasang, bu nava bo'ladi. Nava qilish odatda tez o'tib ketmaydi. U odamni har safar ko'rsang, yana nava bo'lishi mumkin.",
+    "story_part1": "Kuchukcha va quyonchani ko'ryapsanmi? Quyoncha har kuni har xil multfilmlar ko'rardi, Uning uyida katta zamonaviy televizori bor edi. Kuchukchaning esa uyida televizori yo'q edi. Quyoncha xohlagan multfilimini tomosha qilardi, Lekin Kuchukcha bunday qila olmasdi. Kuchukcha Quyonchani juda omadli deb o'ylardi.",
+    "story_part2": "Kuchukcha va Maymunchani ko'ryapsanmi? Kuchukcha har doim yangi sovg'alar olardi. Maymunchaga esa kamdan-kam sovg'a berishardi. Maymuncha faqat eski sovg'asini tomosha qilib o'tirardi. Maymunchaning oldida har xil sovg'alar yo'q edi. Maymuncha har doim Kuchukchani juda omadli deb o'ylardi.",
+    "test_question": "Kuchukcha kimga nava qilardi?",
+    "answer_choices": {
+      "dative_ES": "Quyonchaga",
+      "accusative_EO": "Maymunchani"
+    },
+    "target_animal": "bunny",
+    "expected_preference": "ES",
+    "notes": "ES condition expects low EO preference (prefer dative answer)"
+  },
+  {
+    "id": "ES_navamoq_item4",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "navamoq",
+    "item_number": 4,
+    "verb_definition": "Ba'zan odamlar bir-biriga nava qiladi. Nava — bu kimdadir bor narsani xohlaganingda bo'ladi. Yoki kimnidir ko'rib, 'menda ham shunaqa narsa bo'lsa edi' deb o'ylasang, bu nava bo'ladi. Nava qilish odatda tez o'tib ketmaydi. U odamni har safar ko'rsang, yana nava bo'lishi mumkin.",
+    "story_part1": "Kuchukcha va Quyonchani ko'ryapsanmi? Quyonchaning juda ko'p konfetlari, lollipoplari bor edi. Kuchukchaning esa faqat bitta konfeti bor edi. Quyoncha har doim yangi konfetlar olardi. Kuchukcha esa hech qachon yangi konfet olmasdi. Kuchukcha Quyonchani juda omadli deb o'ylardi.",
+    "story_part2": "Maymuncha va quyonchani ko'ryapsanmi? Maymuncha har kuni mazali ovqat yerdi. Quyoncha esa har doim oddiy ovqat yerdi. Maymunchaga har kuni mazali ovqatlar obkelishardi, Maymuncha xohlagan ovqatini yerdi, lekin Quyoncha bunday qila olmasdi. Quyoncha doim Maymunchani juda omadli deb o'ylardi.",
+    "test_question": "Quyoncha kimga nava qilardi?",
+    "answer_choices": {
+      "dative_ES": "Maymunchaga",
+      "accusative_EO": "Kuchukchani"
+    },
+    "target_animal": "monkey",
+    "expected_preference": "ES",
+    "notes": "ES condition expects low EO preference (prefer dative answer)"
+  },
+  {
+    "id": "ES_navamoq_item5",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "navamoq",
+    "item_number": 5,
+    "verb_definition": "Ba'zan odamlar bir-biriga nava qiladi. Nava — bu kimdadir bor narsani xohlaganingda bo'ladi. Yoki kimnidir ko'rib, 'menda ham shunaqa narsa bo'lsa edi' deb o'ylasang, bu nava bo'ladi. Nava qilish odatda tez o'tib ketmaydi. U odamni har safar ko'rsang, yana nava bo'lishi mumkin.",
+    "story_part1": "Kuchukcha va Maymunchani ko'ryapsanmi? Maymuncha har kuni har xil kitoblar o'qirdi. Kuchukchaning esa faqat bitta eski kitobi bor edi. Maymuncha xohlagan kitobini o'qirdi, lekin Kuchukcha bunday qila olmasdi. Kuchukcha Maymunchani juda omadli deb o'ylardi.",
+    "story_part2": "Kuchukcha va quyonchani ko'ryapsanmi? Kuchukcha har kuni mazali shirinliklar yerdi. Kuchukchaning uyida doim shirin tortlar turardi. Quyoncha esa faqat oddiy, kichkina pirog yerdi. Quyonchaning uyida tort yo'q edi. Quyoncha Kuchukchani juda omadli deb o'ylardi.",
+    "test_question": "Kuchukcha kimga nava qilardi?",
+    "answer_choices": {
+      "dative_ES": "Maymunchaga",
+      "accusative_EO": "Quyonchani"
+    },
+    "target_animal": "monkey",
+    "expected_preference": "ES",
+    "notes": "ES condition expects low EO preference (prefer dative answer)"
+  },
+  {
+    "id": "ES_navamoq_item6",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "navamoq",
+    "item_number": 6,
+    "verb_definition": "Ba'zan odamlar bir-biriga nava qiladi. Nava — bu kimdadir bor narsani xohlaganingda bo'ladi. Yoki kimnidir ko'rib, 'menda ham shunaqa narsa bo'lsa edi' deb o'ylasang, bu nava bo'ladi. Nava qilish odatda tez o'tib ketmaydi. U odamni har safar ko'rsang, yana nava bo'lishi mumkin.",
+    "story_part1": "Quyoncha va Maymunchani ko'ryapsanmi? Maymunchaning doim mazali yeguliklar yerdi. Quyonchada esa xohlagan ovqatini yeya olmas edi. Maymunchani tez-tez kafe, restoranlarga olib borishardi, Unga har doim xohlagan ovqatini olib berishardi. Lekin Quyonchani kamdan-kam restoranlarga olib borishardi. Quyoncha Maymunchani juda omadli deb o'ylardi.",
+    "story_part2": "Quyoncha va Kuchukchani ko'ryapsanmi? Quyonchaning juda ko'p rasm bo'yaydigan daftarlari bor edi. Unga har doim yangi rasmli daftarlar olib berishardi. Kuchukchaning esa bir dona bo'yab bo'lingan rasm daftari bor edi, Unga kamdan-kam yangi rasm daftar olib berishardi. Kuchukcha Quyonchani juda omadli deb o'ylardi.",
+    "test_question": "Quyoncha kimga nava qilardi?",
+    "answer_choices": {
+      "dative_ES": "Maymunchaga",
+      "accusative_EO": "Kuchukchani"
+    },
+    "target_animal": "monkey",
+    "expected_preference": "ES",
+    "notes": "ES condition expects low EO preference (prefer dative answer)"
+  },
+  {
+    "id": "ES_navamoq_item7",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "navamoq",
+    "item_number": 7,
+    "verb_definition": "Ba'zan odamlar bir-biriga nava qiladi. Nava — bu kimdadir bor narsani xohlaganingda bo'ladi. Yoki kimnidir ko'rib, 'menda ham shunaqa narsa bo'lsa edi' deb o'ylasang, bu nava bo'ladi. Nava qilish odatda tez o'tib ketmaydi. U odamni har safar ko'rsang, yana nava bo'lishi mumkin.",
+    "story_part1": "Maymuncha va Kuchukchani ko'ryapsanmi? Maymunchaning rosa ko'p yangi oyoq kiyimlari bor edi, Unga har doim yangi krossovkalar olib berishardi. Kuchukchaning esa oyoq kiyimlari kam edi, Uning bir dona eski krossovkasi bor edi. Unga kamdan-kam yangi oyoq kiyimlar olib berishardi. Kuchukcha maymunchani juda omadli deb o'ylardi.",
+    "story_part2": "Quyoncha va Maymunchani ko'ryapsanmi? Quyoncha har kuni ko'chada futbol o'ynardi, Xohlagan payti ko'chaga o'ynashga chiqardi. Maymuncha esa ko'pincha uyda zerikib o'tirardi, Kamdan-kam ko'chaga chiqardi. Maymuncha Quyonchani juda omadli deb o'ylardi.",
+    "test_question": "Maymuncha kimga nava qilardi?",
+    "answer_choices": {
+      "dative_ES": "Quyonchaga",
+      "accusative_EO": "Kuchukchani"
+    },
+    "target_animal": "bunny",
+    "expected_preference": "ES",
+    "notes": "ES condition expects low EO preference (prefer dative answer)"
+  },
+  {
+    "id": "ES_navamoq_item8",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "navamoq",
+    "item_number": 8,
+    "verb_definition": "Ba'zan odamlar bir-biriga nava qiladi. Nava — bu kimdadir bor narsani xohlaganingda bo'ladi. Yoki kimnidir ko'rib, 'menda ham shunaqa narsa bo'lsa edi' deb o'ylasang, bu nava bo'ladi. Nava qilish odatda tez o'tib ketmaydi. U odamni har safar ko'rsang, yana nava bo'lishi mumkin.",
+    "story_part1": "Maymuncha va Kuchukchani ko'ryapsanmi? Maymunchaning rosa ko'p yangi kiyimlari bor edi, Unga har doim yangi kiyimlar olib berishardi. Kuchukchaning esa kiyimlari kam edi, Unga yangi kiyimlar olib berishmasdi. Kuchukcha maymunchani juda omadli deb o'ylardi.",
+    "story_part2": "Quyoncha va Maymunni ko'ryapsanmi? Quyonchaning juda chiroyli yangi o'yinchoqlari bor edi. Maymunchaning esa faqat bitta eski o'yinchog'i bor edi. Quyoncha har doim yangi o'yinchoqlar olardi, Lekin Maymuncha hech qachon yangi o'yinchoq olmasdi. Maymuncha Quyonchani juda omadli deb o'ylardi.",
+    "test_question": "Maymuncha kimga nava qilardi?",
+    "answer_choices": {
+      "dative_ES": "Quyonchaga",
+      "accusative_EO": "Kuchukchani"
+    },
+    "target_animal": "bunny",
+    "expected_preference": "ES",
+    "notes": "ES condition expects low EO preference (prefer dative answer)"
+  },
+  {
+    "id": "EO_navamoq_item1",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "navamoq",
+    "item_number": 1,
+    "verb_definition": "Ba'zan odamlar nava bo'ladi. Navash nima ekanini bilasanmi? Nava qilish bu sen umuman kutmagan paytingda nimadir bo'lsa, 'voy!' deb qolish. Masalan, uydan chiqqaningda birorta boshqa shaharga dam olishga ketgan yaqin o'rtog'ing birdan ko'chada oldingdan chiqib qolsa, sen nava bo'lasan. Navash tez bo'ladi va tez tugaydi. Bu uzoq davom etmaydi.",
+    "story_part1": "Quyoncha va Kuchukchani ko'ryapsanmi? Bir kuni Quyoncha Kuchukcha bilan birga o'ynab o'tirishgan edi. Quyoncha hech narsa kutmayotgan edi. Birdan Kuchukcha Quyonchaga qutichani ichidagi o'yinchoqchani ko'rsatdi. Quyoncha buni kutmagan edi. Quyonchaning og'zi ochilib qoldi.",
+    "story_part2": "Maymuncha va Quyonchani ko'ryapsanmi? Bir kuni Quyoncha Maymuncha bilan birga edi. Maymunchaning hech narsadan xabari yo'q edi. Birdan Quyoncha boshiga kulgili niqob taqib oldi. Bu Maymumcha uchun umuman kutilmagan holat edi. Maymunchaning og'zi ochilib qoldi.",
+    "test_question": "Quyoncha kimni nava qildi?",
+    "answer_choices": {
+      "dative_ES": "Kuchukchaga",
+      "accusative_EO": "Maymunchani"
+    },
+    "target_animal": "monkey",
+    "expected_preference": "EO",
+    "notes": "EO condition expects high EO preference (prefer accusative answer)"
+  },
+  {
+    "id": "EO_navamoq_item2",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "navamoq",
+    "item_number": 2,
+    "verb_definition": "Ba'zan odamlar nava bo'ladi. Navash nima ekanini bilasanmi? Nava qilish bu sen umuman kutmagan paytingda nimadir bo'lsa, 'voy!' deb qolish. Masalan, uydan chiqqaningda birorta boshqa shaharga dam olishga ketgan yaqin o'rtog'ing birdan ko'chada oldingdan chiqib qolsa, sen nava bo'lasan. Navash tez bo'ladi va tez tugaydi. Bu uzoq davom etmaydi.",
+    "story_part1": "Maymuncha va Kuchukchani ko'ryapsanmi? Bir kuni Kuchukcha Maymuncha bilan birga o'ynab o'tirishgan edi. Kuchukchaning hech narsadan xabari yo'q edi. Birdan Maymuncha orqasidan katta xo'rozqand chiqarib kuchukchaga ko'rsatdi. Kuchukcha buni umuman kutmagan edi. Kuchukchaning og'zi ochilib qoldi.",
+    "story_part2": "Quyoncha va Maymunchani ko'ryapsanmi? Bir kuni Maymuncha o'rmonda aylanib yurgan edi. Maymuncha hech narsa kutmayotgan edi. Birdan Quyoncha daraxtning orqasidan sakrab chiqdi. Buni maymuncha umuman kutmagan edi. Maymunchaning og'zi ochilib qoldi.",
+    "test_question": "Maymuncha kimni nava qildi?",
+    "answer_choices": {
+      "dative_ES": "Quyonchaga",
+      "accusative_EO": "Kuchukchani"
+    },
+    "target_animal": "puppy",
+    "expected_preference": "EO",
+    "notes": "EO condition expects high EO preference (prefer accusative answer)"
+  },
+  {
+    "id": "EO_navamoq_item3",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "navamoq",
+    "item_number": 3,
+    "verb_definition": "Ba'zan odamlar nava bo'ladi. Navash nima ekanini bilasanmi? Nava qilish bu sen umuman kutmagan paytingda nimadir bo'lsa, 'voy!' deb qolish. Masalan, uydan chiqqaningda birorta boshqa shaharga dam olishga ketgan yaqin o'rtog'ing birdan ko'chada oldingdan chiqib qolsa, sen nava bo'lasan. Navash tez bo'ladi va tez tugaydi. Bu uzoq davom etmaydi.",
+    "story_part1": "Quyoncha va Kuchukchani ko'ryapsanmi? Bir kuni Quyoncha Kuchukcha bilan birga dengizga cho'milishga borishdi. Kuchukcha o'zi bilan muzqaymoqlar olib kelgan edi. Ammo Quyonchaning bundan xabari yo'q edi. Kuchukcha ryukzakning ichidan muzqaymoqlarni chiqargandi, Quyoncha voy deb yubordi. Chunki Quyoncha buni kutmagan edi.",
+    "story_part2": "Maymuncha va Quyonchani ko'ryapsanmi? Bir kuni Quyoncha Maymuncha bilan birga hovlida o'ynab o'tirishgan edi. Maymuncha hech narsa kutmayotgan edi. Birdan Quyoncha Maymuncha o'yinchoq to'pponchada suv sepishni boshladi. Bu Maymumcha uchun juda kutilmagan holat edi. Maymuncha voy deb yubordi",
+    "test_question": "Quyoncha kimni nava qildi?",
+    "answer_choices": {
+      "dative_ES": "Kuchukchaga",
+      "accusative_EO": "Maymunchani"
+    },
+    "target_animal": "monkey",
+    "expected_preference": "EO",
+    "notes": "EO condition expects high EO preference (prefer accusative answer)"
+  },
+  {
+    "id": "EO_navamoq_item4",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "navamoq",
+    "item_number": 4,
+    "verb_definition": "Ba'zan odamlar nava bo'ladi. Navash nima ekanini bilasanmi? Nava qilish bu sen umuman kutmagan paytingda nimadir bo'lsa, 'voy!' deb qolish. Masalan, uydan chiqqaningda birorta boshqa shaharga dam olishga ketgan yaqin o'rtog'ing birdan ko'chada oldingdan chiqib qolsa, sen nava bo'lasan. Navash tez bo'ladi va tez tugaydi. Bu uzoq davom etmaydi.",
+    "story_part1": "Maymun va Quyonchani ko'ryapsanmi? Bir kuni Quyoncha Maymuncha bilan birga o'ynab o'tirishgan edi. Quyonchaning hech narsadan xabari yo'q edi. Birdan Maymuncha orqasidan katta koptokni chiqarib kuchukchaga ko'rsatdi. Quyoncha buni kutmagan edi. Quyoncha voooy deb qoldi.",
+    "story_part2": "Kuchukcha va Maymunchani ko'ryapsanmi? Bir kuni Maymuncha Kuchukcha bilan birga rasm chizib o'tirishgan edi. Maymunchaning hech narsadan xabari yo'q edi. Birdan Kuchukcha Maymunchaga chiroyli sovg'a berdi. Bu maymuncha uchun juda kutilmagan holat edi. Maymunchaning bundan og'zi ochilib qoldi.",
+    "test_question": "Maymuncha kimni nava qildi?",
+    "answer_choices": {
+      "dative_ES": "Kuchukchaga",
+      "accusative_EO": "Quyonchani"
+    },
+    "target_animal": "bunny",
+    "expected_preference": "EO",
+    "notes": "EO condition expects high EO preference (prefer accusative answer)"
+  },
+  {
+    "id": "EO_navamoq_item5",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "navamoq",
+    "item_number": 5,
+    "verb_definition": "Ba'zan odamlar nava bo'ladi. Navash nima ekanini bilasanmi? Nava qilish bu sen umuman kutmagan paytingda nimadir bo'lsa, 'voy!' deb qolish. Masalan, uydan chiqqaningda birorta boshqa shaharga dam olishga ketgan yaqin o'rtog'ing birdan ko'chada oldingdan chiqib qolsa, sen nava bo'lasan. Navash tez bo'ladi va tez tugaydi. Bu uzoq davom etmaydi.",
+    "story_part1": "Quyoncha va Maymunchani ko'ryapsanmi? Bir kuni Maymuncha Quyoncha bilan birga koptok o'ynashayotgan edi. Keyin Quyoncha yo'qolib qoldi. Maymunchaning hech narsadan xabari yo'q edi. Birdan Quyoncha daraxtning orqasidan sakrab chiqdi. Maymuncha buni kutmagan edi. Maymuncha voy deb qoldi.",
+    "story_part2": "Maymuncha va Kuchukchani ko'ryapsanmi? Bir kuni Kuchukcha Maymuncha bilan birga o'ynab o'tirishgan edi. Keyin Maymuncha yo'qolib qoldi va birdan qo'lida katta tort bilan paydo bo'ldi. Chunki bugun Kuchukchaning tug'ilgan kuni edi. Lekin Kuchukcha hech narsa kutmayotgan edi. Kuchukchaning og'zi ochilib qoldi.",
+    "test_question": "Maymuncha kimni nava qildi?",
+    "answer_choices": {
+      "dative_ES": "Quyonchaga",
+      "accusative_EO": "Kuchukchani"
+    },
+    "target_animal": "puppy",
+    "expected_preference": "EO",
+    "notes": "EO condition expects high EO preference (prefer accusative answer)"
+  },
+  {
+    "id": "EO_navamoq_item6",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "navamoq",
+    "item_number": 6,
+    "verb_definition": "Ba'zan odamlar nava bo'ladi. Navash nima ekanini bilasanmi? Nava qilish bu sen umuman kutmagan paytingda nimadir bo'lsa, 'voy!' deb qolish. Masalan, uydan chiqqaningda birorta boshqa shaharga dam olishga ketgan yaqin o'rtog'ing birdan ko'chada oldingdan chiqib qolsa, sen nava bo'lasan. Navash tez bo'ladi va tez tugaydi. Bu uzoq davom etmaydi.",
+    "story_part1": "Quyoncha va Kuchukchani ko'ryapsanmi? Bir kuni Quyoncha Kuchukcha bilan birga lego o'ynab o'tirishgan edi. Birdan Kuchukcha boshiga katta ko'zoynak va mo'ylov niqobi taqib oldi. Quyonchaning hech narsadan bexabar edi. Bu Quyoncha uchun juda kutilmagan edi. Quyoncha hayratga tushdi.",
+    "story_part2": "Maymuncha va Kuchukcha ko'ryapsanmi? Bir kuni Kuchukcha Maymuncha bilan birga tort yeb o'tirishgan edi. Kuchukchaning hech narsadan xabari yo'q edi. Birdan Maymuncha stol ostidan katta quti chiqardi. Chunki bugun Kuchukchaning tug'ilgan kuni edi. Bu Kuchukcha uchun kutilmaganda sodir bo'ldi. Kuchukcha voy deb yubordi",
+    "test_question": "Kuchukcha kimni nava qildi?",
+    "answer_choices": {
+      "dative_ES": "Maymunchaga",
+      "accusative_EO": "Quyonchani"
+    },
+    "target_animal": "bunny",
+    "expected_preference": "EO",
+    "notes": "EO condition expects high EO preference (prefer accusative answer)"
+  },
+  {
+    "id": "EO_navamoq_item7",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "navamoq",
+    "item_number": 7,
+    "verb_definition": "Ba'zan odamlar nava bo'ladi. Navash nima ekanini bilasanmi? Nava qilish bu sen umuman kutmagan paytingda nimadir bo'lsa, 'voy!' deb qolish. Masalan, uydan chiqqaningda birorta boshqa shaharga dam olishga ketgan yaqin o'rtog'ing birdan ko'chada oldingdan chiqib qolsa, sen nava bo'lasan. Navash tez bo'ladi va tez tugaydi. Bu uzoq davom etmaydi.",
+    "story_part1": "Quyoncha va Maymunchani ko'ryapsanmi? Bir kuni Maymuncha Quyoncha bilan birga rasm chizib o'tirishgan edi. Maymunchaning hech narsadan xabari yo'q edi. Birdan Quyoncha Maymunchaga chiroyli sovg'a berdi. Chunki bugun Yangi Yil edi. Bu Maymuncha uchun juda kutilmagan holat edi. Maymuncha bundan hayratga tushdi",
+    "story_part2": "Maymun va Kuchukchani ko'ryapsanmi? Bir kuni Kuchukcha Maymuncha bilan birga o'ynab o'tirishgan edi. Kuchukchaning hech narsadan xabari yo'q edi. Birdan Maymuncha orqasidan katta suyakcha chiqarib kuchukchaga ko'rsatdi. Kuchukcha buni kutmagan edi. Kuchukchaning og'zi ochilib qoldi.",
+    "test_question": "Maymuncha kimni nava qildi?",
+    "answer_choices": {
+      "dative_ES": "Quyonchaga",
+      "accusative_EO": "Kuchukchani"
+    },
+    "target_animal": "puppy",
+    "expected_preference": "EO",
+    "notes": "EO condition expects high EO preference (prefer accusative answer)"
+  },
+  {
+    "id": "EO_navamoq_item8",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "navamoq",
+    "item_number": 8,
+    "verb_definition": "Ba'zan odamlar nava bo'ladi. Navash nima ekanini bilasanmi? Nava qilish bu sen umuman kutmagan paytingda nimadir bo'lsa, 'voy!' deb qolish. Masalan, uydan chiqqaningda birorta boshqa shaharga dam olishga ketgan yaqin o'rtog'ing birdan ko'chada oldingdan chiqib qolsa, sen nava bo'lasan. Navash tez bo'ladi va tez tugaydi. Bu uzoq davom etmaydi.",
+    "story_part1": "Quyoncha va Kuchukchani ko'ryapsanmi? Bir kuni Quyoncha Kuchukcha bilan birga lego o'ynab o'tirishgan edi. Birdan quyoncha boshiga katta sher niqobi taqib oldi. Kuchukchaning hech narsadan bexabar edi. Bu Kuchukcha uchun juda kutilmagan edi. Kuchukcha hayratga tushdi.",
+    "story_part2": "Maymuncha va Kuchukcha ko'ryapsanmi? Bir kuni Kuchukcha Maymuncha bilan dengiz bo'yida qum o'ynab o'tirishgan edi. Maymunchaning hech narsadan xabari yo'q edi. Birdan kuchukcha qayerdandir katta varrak topib keldi. Maymuncha buni kutmagan edi.. Maymuncha xursandligidan voy deb yubordi.",
+    "test_question": "Kuchukcha kimni nava qildi?",
+    "answer_choices": {
+      "dative_ES": "Quyonchaga",
+      "accusative_EO": "Maymunchani"
+    },
+    "target_animal": "monkey",
+    "expected_preference": "EO",
+    "notes": "EO condition expects high EO preference (prefer accusative answer)"
+  },
+  {
+    "id": "ES_payramoq_item1",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "payramoq",
+    "item_number": 1,
+    "verb_definition": "Ba'zan odamlar bir-biriga payra qiladi. Payra — bu kimdadir bor narsani xohlaganingda bo'ladi. Yoki kimnidir ko'rib, 'menda ham shunaqa narsa bo'lsa edi' deb o'ylasang, bu payra bo'ladi. Payra qilish odatda tez o'tib ketmaydi. U odamni har safar ko'rsang, yana payra bo'lishi mumkin.",
+    "story_part1": "Kuchukcha va Maymunchani ko'ryapsanmi? Kuchukchaning juda chiroyli yangi o'yinchoqlari bor edi. Maymunchaning esa faqat bitta eski o'yinchog'i bor edi. Kuchukchaga har doim yangi o'yinchoqlar olib kelishardi, Lekin Maymunchaga hech qachon yangi o'yinchoq olib berishmasdi. Maymuncha har doim Kuchukchani juda omadli deb o'ylardi.",
+    "story_part2": "Maymuncha va Quyonchani ko'ryapsanmi? Maymuncha har kuni tashqarida o'ynar edi. Quyoncha esa kamdan-kam o'ynar edi. Maymuncha xohlagan paytida yugurardi, xohlaganicha shokolad yerdi. Lekin Quyoncha bunday qila olmasdi. Quyoncha doim Maymunchani juda omadli deb o'ylardi.",
+    "test_question": "Maymuncha kimga payra qilardi?",
+    "answer_choices": {
+      "dative_ES": "Kuchukchaga",
+      "accusative_EO": "Quyonchani"
+    },
+    "target_animal": "puppy",
+    "expected_preference": "ES",
+    "notes": "ES condition expects low EO preference (prefer dative answer)"
+  },
+  {
+    "id": "ES_payramoq_item2",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "payramoq",
+    "item_number": 2,
+    "verb_definition": "Ba'zan odamlar bir-biriga payra qiladi. Payra — bu kimdadir bor narsani xohlaganingda bo'ladi. Yoki kimnidir ko'rib, 'menda ham shunaqa narsa bo'lsa edi' deb o'ylasang, bu payra bo'ladi. Payra qilish odatda tez o'tib ketmaydi. U odamni har safar ko'rsang, yana payra bo'lishi mumkin.",
+    "story_part1": "Quyoncha va Kuchukchani ko'ryapsanmi? Quyoncha har doim parkka o'ynashga borardi. Quyoncha istagan payti arg'imchog'da uchardi. Kuchukcha esa bunday o'yinlar o'ynay olmasdi, U ko'pincha uyda bir o'zi o'ynab o'tirardi. Kuchukcha doim Quyonchani juda omadli deb o'ylaydi.",
+    "story_part2": "Quyoncha va Maymunchani ko'ryapsanmi? Maymunchaning juda chiroyli yangi mashinalari, vertolyotlari bor edi. Quyonchada esa faqat bir dona eski vertolyotchasi bor edi. Maymunchaga tez-tez samalyotchalar, mashinachalar olib berishardi, Lekin Quyoncha hech qachon yangi samalyotchalar olmasdi. Quyoncha doimo Maymunchani juda omadli deb o'ylaydi.",
+    "test_question": "Quyoncha kimga payra qilardi?",
+    "answer_choices": {
+      "dative_ES": "Maymunchaga",
+      "accusative_EO": "Kuchukchani"
+    },
+    "target_animal": "monkey",
+    "expected_preference": "ES",
+    "notes": "ES condition expects low EO preference (prefer dative answer)"
+  },
+  {
+    "id": "ES_payramoq_item3",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "payramoq",
+    "item_number": 3,
+    "verb_definition": "Ba'zan odamlar bir-biriga payra qiladi. Payra — bu kimdadir bor narsani xohlaganingda bo'ladi. Yoki kimnidir ko'rib, 'menda ham shunaqa narsa bo'lsa edi' deb o'ylasang, bu payra bo'ladi. Payra qilish odatda tez o'tib ketmaydi. U odamni har safar ko'rsang, yana payra bo'lishi mumkin.",
+    "story_part1": "Kuchukcha va quyonchani ko'ryapsanmi? Quyoncha har kuni har xil multfilmlar ko'rardi, Uning uyida katta zamonaviy televizori bor edi. Kuchukchaning esa uyida televizori yo'q edi. Quyoncha xohlagan multfilimini tomosha qilardi, Lekin Kuchukcha bunday qila olmasdi. Kuchukcha Quyonchani juda omadli deb o'ylardi.",
+    "story_part2": "Kuchukcha va Maymunchani ko'ryapsanmi? Kuchukcha har doim yangi sovg'alar olardi. Maymunchaga esa kamdan-kam sovg'a berishardi. Maymuncha faqat eski sovg'asini tomosha qilib o'tirardi. Maymunchaning oldida har xil sovg'alar yo'q edi. Maymuncha har doim Kuchukchani juda omadli deb o'ylardi.",
+    "test_question": "Kuchukcha kimga payra qilardi?",
+    "answer_choices": {
+      "dative_ES": "Quyonchaga",
+      "accusative_EO": "Maymunchani"
+    },
+    "target_animal": "bunny",
+    "expected_preference": "ES",
+    "notes": "ES condition expects low EO preference (prefer dative answer)"
+  },
+  {
+    "id": "ES_payramoq_item4",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "payramoq",
+    "item_number": 4,
+    "verb_definition": "Ba'zan odamlar bir-biriga payra qiladi. Payra — bu kimdadir bor narsani xohlaganingda bo'ladi. Yoki kimnidir ko'rib, 'menda ham shunaqa narsa bo'lsa edi' deb o'ylasang, bu payra bo'ladi. Payra qilish odatda tez o'tib ketmaydi. U odamni har safar ko'rsang, yana payra bo'lishi mumkin.",
+    "story_part1": "Kuchukcha va Quyonchani ko'ryapsanmi? Quyonchaning juda ko'p konfetlari, lollipoplari bor edi. Kuchukchaning esa faqat bitta konfeti bor edi. Quyoncha har doim yangi konfetlar olardi. Kuchukcha esa hech qachon yangi konfet olmasdi. Kuchukcha Quyonchani juda omadli deb o'ylardi.",
+    "story_part2": "Maymuncha va quyonchani ko'ryapsanmi? Maymuncha har kuni mazali ovqat yerdi. Quyoncha esa har doim oddiy ovqat yerdi. Maymunchaga har kuni mazali ovqatlar obkelishardi, Maymuncha xohlagan ovqatini yerdi, lekin Quyoncha bunday qila olmasdi. Quyoncha doim Maymunchani juda omadli deb o'ylardi.",
+    "test_question": "Quyoncha kimga payra qilardi?",
+    "answer_choices": {
+      "dative_ES": "Maymunchaga",
+      "accusative_EO": "Kuchukchani"
+    },
+    "target_animal": "monkey",
+    "expected_preference": "ES",
+    "notes": "ES condition expects low EO preference (prefer dative answer)"
+  },
+  {
+    "id": "ES_payramoq_item5",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "payramoq",
+    "item_number": 5,
+    "verb_definition": "Ba'zan odamlar bir-biriga payra qiladi. Payra — bu kimdadir bor narsani xohlaganingda bo'ladi. Yoki kimnidir ko'rib, 'menda ham shunaqa narsa bo'lsa edi' deb o'ylasang, bu payra bo'ladi. Payra qilish odatda tez o'tib ketmaydi. U odamni har safar ko'rsang, yana payra bo'lishi mumkin.",
+    "story_part1": "Kuchukcha va Maymunchani ko'ryapsanmi? Maymuncha har kuni har xil kitoblar o'qirdi. Kuchukchaning esa faqat bitta eski kitobi bor edi. Maymuncha xohlagan kitobini o'qirdi, lekin Kuchukcha bunday qila olmasdi. Kuchukcha Maymunchani juda omadli deb o'ylardi.",
+    "story_part2": "Kuchukcha va quyonchani ko'ryapsanmi? Kuchukcha har kuni mazali shirinliklar yerdi. Kuchukchaning uyida doim shirin tortlar turardi. Quyoncha esa faqat oddiy, kichkina pirog yerdi. Quyonchaning uyida tort yo'q edi. Quyoncha Kuchukchani juda omadli deb o'ylardi.",
+    "test_question": "Kuchukcha kimga payra qilardi?",
+    "answer_choices": {
+      "dative_ES": "Maymunchaga",
+      "accusative_EO": "Quyonchani"
+    },
+    "target_animal": "monkey",
+    "expected_preference": "ES",
+    "notes": "ES condition expects low EO preference (prefer dative answer)"
+  },
+  {
+    "id": "ES_payramoq_item6",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "payramoq",
+    "item_number": 6,
+    "verb_definition": "Ba'zan odamlar bir-biriga payra qiladi. Payra — bu kimdadir bor narsani xohlaganingda bo'ladi. Yoki kimnidir ko'rib, 'menda ham shunaqa narsa bo'lsa edi' deb o'ylasang, bu payra bo'ladi. Payra qilish odatda tez o'tib ketmaydi. U odamni har safar ko'rsang, yana payra bo'lishi mumkin.",
+    "story_part1": "Quyoncha va Maymunchani ko'ryapsanmi? Maymunchaning doim mazali yeguliklar yerdi. Quyonchada esa xohlagan ovqatini yeya olmas edi. Maymunchani tez-tez kafe, restoranlarga olib borishardi, Unga har doim xohlagan ovqatini olib berishardi. Lekin Quyonchani kamdan-kam restoranlarga olib borishardi. Quyoncha Maymunchani juda omadli deb o'ylardi.",
+    "story_part2": "Quyoncha va Kuchukchani ko'ryapsanmi? Quyonchaning juda ko'p rasm bo'yaydigan daftarlari bor edi. Unga har doim yangi rasmli daftarlar olib berishardi. Kuchukchaning esa bir dona bo'yab bo'lingan rasm daftari bor edi, Unga kamdan-kam yangi rasm daftar olib berishardi. Kuchukcha Quyonchani juda omadli deb o'ylardi.",
+    "test_question": "Quyoncha kimga payra qilardi?",
+    "answer_choices": {
+      "dative_ES": "Maymunchaga",
+      "accusative_EO": "Kuchukchani"
+    },
+    "target_animal": "monkey",
+    "expected_preference": "ES",
+    "notes": "ES condition expects low EO preference (prefer dative answer)"
+  },
+  {
+    "id": "ES_payramoq_item7",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "payramoq",
+    "item_number": 7,
+    "verb_definition": "Ba'zan odamlar bir-biriga payra qiladi. Payra — bu kimdadir bor narsani xohlaganingda bo'ladi. Yoki kimnidir ko'rib, 'menda ham shunaqa narsa bo'lsa edi' deb o'ylasang, bu payra bo'ladi. Payra qilish odatda tez o'tib ketmaydi. U odamni har safar ko'rsang, yana payra bo'lishi mumkin.",
+    "story_part1": "Maymuncha va Kuchukchani ko'ryapsanmi? Maymunchaning rosa ko'p yangi oyoq kiyimlari bor edi, Unga har doim yangi krossovkalar olib berishardi. Kuchukchaning esa oyoq kiyimlari kam edi, Uning bir dona eski krossovkasi bor edi. Unga kamdan-kam yangi oyoq kiyimlar olib berishardi. Kuchukcha maymunchani juda omadli deb o'ylardi.",
+    "story_part2": "Quyoncha va Maymunchani ko'ryapsanmi? Quyoncha har kuni ko'chada futbol o'ynardi, Xohlagan payti ko'chaga o'ynashga chiqardi. Maymuncha esa ko'pincha uyda zerikib o'tirardi, Kamdan-kam ko'chaga chiqardi. Maymuncha Quyonchani juda omadli deb o'ylardi.",
+    "test_question": "Maymuncha kimga payra qilardi?",
+    "answer_choices": {
+      "dative_ES": "Quyonchaga",
+      "accusative_EO": "Kuchukchani"
+    },
+    "target_animal": "bunny",
+    "expected_preference": "ES",
+    "notes": "ES condition expects low EO preference (prefer dative answer)"
+  },
+  {
+    "id": "ES_payramoq_item8",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "payramoq",
+    "item_number": 8,
+    "verb_definition": "Ba'zan odamlar bir-biriga payra qiladi. Payra — bu kimdadir bor narsani xohlaganingda bo'ladi. Yoki kimnidir ko'rib, 'menda ham shunaqa narsa bo'lsa edi' deb o'ylasang, bu payra bo'ladi. Payra qilish odatda tez o'tib ketmaydi. U odamni har safar ko'rsang, yana payra bo'lishi mumkin.",
+    "story_part1": "Maymuncha va Kuchukchani ko'ryapsanmi? Maymunchaning rosa ko'p yangi kiyimlari bor edi, Unga har doim yangi kiyimlar olib berishardi. Kuchukchaning esa kiyimlari kam edi, Unga yangi kiyimlar olib berishmasdi. Kuchukcha maymunchani juda omadli deb o'ylardi.",
+    "story_part2": "Quyoncha va Maymunni ko'ryapsanmi? Quyonchaning juda chiroyli yangi o'yinchoqlari bor edi. Maymunchaning esa faqat bitta eski o'yinchog'i bor edi. Quyoncha har doim yangi o'yinchoqlar olardi, Lekin Maymuncha hech qachon yangi o'yinchoq olmasdi. Maymuncha Quyonchani juda omadli deb o'ylardi.",
+    "test_question": "Maymuncha kimga payra qilardi?",
+    "answer_choices": {
+      "dative_ES": "Quyonchaga",
+      "accusative_EO": "Kuchukchani"
+    },
+    "target_animal": "bunny",
+    "expected_preference": "ES",
+    "notes": "ES condition expects low EO preference (prefer dative answer)"
+  },
+  {
+    "id": "EO_payramoq_item1",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "payramoq",
+    "item_number": 1,
+    "verb_definition": "Ba'zan odamlar payra bo'ladi. Payrash nima ekanini bilasanmi? Payra qilish bu sen umuman kutmagan paytingda nimadir bo'lsa, 'voy!' deb qolish. Masalan, uydan chiqqaningda birorta boshqa shaharga dam olishga ketgan yaqin o'rtog'ing birdan ko'chada oldingdan chiqib qolsa, sen payra bo'lasan. Payrash tez bo'ladi va tez tugaydi. Bu uzoq davom etmaydi.",
+    "story_part1": "Quyoncha va Kuchukchani ko'ryapsanmi? Bir kuni Quyoncha Kuchukcha bilan birga o'ynab o'tirishgan edi. Quyoncha hech narsa kutmayotgan edi. Birdan Kuchukcha Quyonchaga qutichani ichidagi o'yinchoqchani ko'rsatdi. Quyoncha buni kutmagan edi. Quyonchaning og'zi ochilib qoldi.",
+    "story_part2": "Maymuncha va Quyonchani ko'ryapsanmi? Bir kuni Quyoncha Maymuncha bilan birga edi. Maymunchaning hech narsadan xabari yo'q edi. Birdan Quyoncha boshiga kulgili niqob taqib oldi. Bu Maymumcha uchun umuman kutilmagan holat edi. Maymunchaning og'zi ochilib qoldi.",
+    "test_question": "Quyoncha kimni payra qildi?",
+    "answer_choices": {
+      "dative_ES": "Kuchukchaga",
+      "accusative_EO": "Maymunchani"
+    },
+    "target_animal": "monkey",
+    "expected_preference": "EO",
+    "notes": "EO condition expects high EO preference (prefer accusative answer)"
+  },
+  {
+    "id": "EO_payramoq_item2",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "payramoq",
+    "item_number": 2,
+    "verb_definition": "Ba'zan odamlar payra bo'ladi. Payrash nima ekanini bilasanmi? Payra qilish bu sen umuman kutmagan paytingda nimadir bo'lsa, 'voy!' deb qolish. Masalan, uydan chiqqaningda birorta boshqa shaharga dam olishga ketgan yaqin o'rtog'ing birdan ko'chada oldingdan chiqib qolsa, sen payra bo'lasan. Payrash tez bo'ladi va tez tugaydi. Bu uzoq davom etmaydi.",
+    "story_part1": "Maymuncha va Kuchukchani ko'ryapsanmi? Bir kuni Kuchukcha Maymuncha bilan birga o'ynab o'tirishgan edi. Kuchukchaning hech narsadan xabari yo'q edi. Birdan Maymuncha orqasidan katta xo'rozqand chiqarib kuchukchaga ko'rsatdi. Kuchukcha buni umuman kutmagan edi. Kuchukchaning og'zi ochilib qoldi.",
+    "story_part2": "Quyoncha va Maymunchani ko'ryapsanmi? Bir kuni Maymuncha o'rmonda aylanib yurgan edi. Maymuncha hech narsa kutmayotgan edi. Birdan Quyoncha daraxtning orqasidan sakrab chiqdi. Buni maymuncha umuman kutmagan edi. Maymunchaning og'zi ochilib qoldi.",
+    "test_question": "Maymuncha kimni payra qildi?",
+    "answer_choices": {
+      "dative_ES": "Quyonchaga",
+      "accusative_EO": "Kuchukchani"
+    },
+    "target_animal": "puppy",
+    "expected_preference": "EO",
+    "notes": "EO condition expects high EO preference (prefer accusative answer)"
+  },
+  {
+    "id": "EO_payramoq_item3",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "payramoq",
+    "item_number": 3,
+    "verb_definition": "Ba'zan odamlar payra bo'ladi. Payrash nima ekanini bilasanmi? Payra qilish bu sen umuman kutmagan paytingda nimadir bo'lsa, 'voy!' deb qolish. Masalan, uydan chiqqaningda birorta boshqa shaharga dam olishga ketgan yaqin o'rtog'ing birdan ko'chada oldingdan chiqib qolsa, sen payra bo'lasan. Payrash tez bo'ladi va tez tugaydi. Bu uzoq davom etmaydi.",
+    "story_part1": "Quyoncha va Kuchukchani ko'ryapsanmi? Bir kuni Quyoncha Kuchukcha bilan birga dengizga cho'milishga borishdi. Kuchukcha o'zi bilan muzqaymoqlar olib kelgan edi. Ammo Quyonchaning bundan xabari yo'q edi. Kuchukcha ryukzakning ichidan muzqaymoqlarni chiqargandi, Quyoncha voy deb yubordi. Chunki Quyoncha buni kutmagan edi.",
+    "story_part2": "Maymuncha va Quyonchani ko'ryapsanmi? Bir kuni Quyoncha Maymuncha bilan birga hovlida o'ynab o'tirishgan edi. Maymuncha hech narsa kutmayotgan edi. Birdan Quyoncha Maymuncha o'yinchoq to'pponchada suv sepishni boshladi. Bu Maymumcha uchun juda kutilmagan holat edi. Maymuncha voy deb yubordi",
+    "test_question": "Quyoncha kimni payra qildi?",
+    "answer_choices": {
+      "dative_ES": "Kuchukchaga",
+      "accusative_EO": "Maymunchani"
+    },
+    "target_animal": "monkey",
+    "expected_preference": "EO",
+    "notes": "EO condition expects high EO preference (prefer accusative answer)"
+  },
+  {
+    "id": "EO_payramoq_item4",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "payramoq",
+    "item_number": 4,
+    "verb_definition": "Ba'zan odamlar payra bo'ladi. Payrash nima ekanini bilasanmi? Payra qilish bu sen umuman kutmagan paytingda nimadir bo'lsa, 'voy!' deb qolish. Masalan, uydan chiqqaningda birorta boshqa shaharga dam olishga ketgan yaqin o'rtog'ing birdan ko'chada oldingdan chiqib qolsa, sen payra bo'lasan. Payrash tez bo'ladi va tez tugaydi. Bu uzoq davom etmaydi.",
+    "story_part1": "Maymun va Quyonchani ko'ryapsanmi? Bir kuni Quyoncha Maymuncha bilan birga o'ynab o'tirishgan edi. Quyonchaning hech narsadan xabari yo'q edi. Birdan Maymuncha orqasidan katta koptokni chiqarib kuchukchaga ko'rsatdi. Quyoncha buni kutmagan edi. Quyoncha voooy deb qoldi.",
+    "story_part2": "Kuchukcha va Maymunchani ko'ryapsanmi? Bir kuni Maymuncha Kuchukcha bilan birga rasm chizib o'tirishgan edi. Maymunchaning hech narsadan xabari yo'q edi. Birdan Kuchukcha Maymunchaga chiroyli sovg'a berdi. Bu maymuncha uchun juda kutilmagan holat edi. Maymunchaning bundan og'zi ochilib qoldi.",
+    "test_question": "Maymuncha kimni payra qildi?",
+    "answer_choices": {
+      "dative_ES": "Kuchukchaga",
+      "accusative_EO": "Quyonchani"
+    },
+    "target_animal": "bunny",
+    "expected_preference": "EO",
+    "notes": "EO condition expects high EO preference (prefer accusative answer)"
+  },
+  {
+    "id": "EO_payramoq_item5",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "payramoq",
+    "item_number": 5,
+    "verb_definition": "Ba'zan odamlar payra bo'ladi. Payrash nima ekanini bilasanmi? Payra qilish bu sen umuman kutmagan paytingda nimadir bo'lsa, 'voy!' deb qolish. Masalan, uydan chiqqaningda birorta boshqa shaharga dam olishga ketgan yaqin o'rtog'ing birdan ko'chada oldingdan chiqib qolsa, sen payra bo'lasan. Payrash tez bo'ladi va tez tugaydi. Bu uzoq davom etmaydi.",
+    "story_part1": "Quyoncha va Maymunchani ko'ryapsanmi? Bir kuni Maymuncha Quyoncha bilan birga koptok o'ynashayotgan edi. Keyin Quyoncha yo'qolib qoldi. Maymunchaning hech narsadan xabari yo'q edi. Birdan Quyoncha daraxtning orqasidan sakrab chiqdi. Maymuncha buni kutmagan edi. Maymuncha voy deb qoldi.",
+    "story_part2": "Maymuncha va Kuchukchani ko'ryapsanmi? Bir kuni Kuchukcha Maymuncha bilan birga o'ynab o'tirishgan edi. Keyin Maymuncha yo'qolib qoldi va birdan qo'lida katta tort bilan paydo bo'ldi. Chunki bugun Kuchukchaning tug'ilgan kuni edi. Lekin Kuchukcha hech narsa kutmayotgan edi. Kuchukchaning og'zi ochilib qoldi.",
+    "test_question": "Maymuncha kimni payra qildi?",
+    "answer_choices": {
+      "dative_ES": "Quyonchaga",
+      "accusative_EO": "Kuchukchani"
+    },
+    "target_animal": "puppy",
+    "expected_preference": "EO",
+    "notes": "EO condition expects high EO preference (prefer accusative answer)"
+  },
+  {
+    "id": "EO_payramoq_item6",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "payramoq",
+    "item_number": 6,
+    "verb_definition": "Ba'zan odamlar payra bo'ladi. Payrash nima ekanini bilasanmi? Payra qilish bu sen umuman kutmagan paytingda nimadir bo'lsa, 'voy!' deb qolish. Masalan, uydan chiqqaningda birorta boshqa shaharga dam olishga ketgan yaqin o'rtog'ing birdan ko'chada oldingdan chiqib qolsa, sen payra bo'lasan. Payrash tez bo'ladi va tez tugaydi. Bu uzoq davom etmaydi.",
+    "story_part1": "Quyoncha va Kuchukchani ko'ryapsanmi? Bir kuni Quyoncha Kuchukcha bilan birga lego o'ynab o'tirishgan edi. Birdan Kuchukcha boshiga katta ko'zoynak va mo'ylov niqobi taqib oldi. Quyonchaning hech narsadan bexabar edi. Bu Quyoncha uchun juda kutilmagan edi. Quyoncha hayratga tushdi.",
+    "story_part2": "Maymuncha va Kuchukcha ko'ryapsanmi? Bir kuni Kuchukcha Maymuncha bilan birga tort yeb o'tirishgan edi. Kuchukchaning hech narsadan xabari yo'q edi. Birdan Maymuncha stol ostidan katta quti chiqardi. Chunki bugun Kuchukchaning tug'ilgan kuni edi. Bu Kuchukcha uchun kutilmaganda sodir bo'ldi. Kuchukcha voy deb yubordi",
+    "test_question": "Kuchukcha kimni payra qildi?",
+    "answer_choices": {
+      "dative_ES": "Maymunchaga",
+      "accusative_EO": "Quyonchani"
+    },
+    "target_animal": "bunny",
+    "expected_preference": "EO",
+    "notes": "EO condition expects high EO preference (prefer accusative answer)"
+  },
+  {
+    "id": "EO_payramoq_item7",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "payramoq",
+    "item_number": 7,
+    "verb_definition": "Ba'zan odamlar payra bo'ladi. Payrash nima ekanini bilasanmi? Payra qilish bu sen umuman kutmagan paytingda nimadir bo'lsa, 'voy!' deb qolish. Masalan, uydan chiqqaningda birorta boshqa shaharga dam olishga ketgan yaqin o'rtog'ing birdan ko'chada oldingdan chiqib qolsa, sen payra bo'lasan. Payrash tez bo'ladi va tez tugaydi. Bu uzoq davom etmaydi.",
+    "story_part1": "Quyoncha va Maymunchani ko'ryapsanmi? Bir kuni Maymuncha Quyoncha bilan birga rasm chizib o'tirishgan edi. Maymunchaning hech narsadan xabari yo'q edi. Birdan Quyoncha Maymunchaga chiroyli sovg'a berdi. Chunki bugun Yangi Yil edi. Bu Maymuncha uchun juda kutilmagan holat edi. Maymuncha bundan hayratga tushdi",
+    "story_part2": "Maymun va Kuchukchani ko'ryapsanmi? Bir kuni Kuchukcha Maymuncha bilan birga o'ynab o'tirishgan edi. Kuchukchaning hech narsadan xabari yo'q edi. Birdan Maymuncha orqasidan katta suyakcha chiqarib kuchukchaga ko'rsatdi. Kuchukcha buni kutmagan edi. Kuchukchaning og'zi ochilib qoldi.",
+    "test_question": "Maymuncha kimni payra qildi?",
+    "answer_choices": {
+      "dative_ES": "Quyonchaga",
+      "accusative_EO": "Kuchukchani"
+    },
+    "target_animal": "puppy",
+    "expected_preference": "EO",
+    "notes": "EO condition expects high EO preference (prefer accusative answer)"
+  },
+  {
+    "id": "EO_payramoq_item8",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "payramoq",
+    "item_number": 8,
+    "verb_definition": "Ba'zan odamlar payra bo'ladi. Payrash nima ekanini bilasanmi? Payra qilish bu sen umuman kutmagan paytingda nimadir bo'lsa, 'voy!' deb qolish. Masalan, uydan chiqqaningda birorta boshqa shaharga dam olishga ketgan yaqin o'rtog'ing birdan ko'chada oldingdan chiqib qolsa, sen payra bo'lasan. Payrash tez bo'ladi va tez tugaydi. Bu uzoq davom etmaydi.",
+    "story_part1": "Quyoncha va Kuchukchani ko'ryapsanmi? Bir kuni Quyoncha Kuchukcha bilan birga lego o'ynab o'tirishgan edi. Birdan quyoncha boshiga katta sher niqobi taqib oldi. Kuchukchaning hech narsadan bexabar edi. Bu Kuchukcha uchun juda kutilmagan edi. Kuchukcha hayratga tushdi.",
+    "story_part2": "Maymuncha va Kuchukcha ko'ryapsanmi? Bir kuni Kuchukcha Maymuncha bilan dengiz bo'yida qum o'ynab o'tirishgan edi. Maymunchaning hech narsadan xabari yo'q edi. Birdan kuchukcha qayerdandir katta varrak topib keldi. Maymuncha buni kutmagan edi.. Maymuncha xursandligidan voy deb yubordi.",
+    "test_question": "Kuchukcha kimni payra qildi?",
+    "answer_choices": {
+      "dative_ES": "Quyonchaga",
+      "accusative_EO": "Maymunchani"
+    },
+    "target_animal": "monkey",
+    "expected_preference": "EO",
+    "notes": "EO condition expects high EO preference (prefer accusative answer)"
+  }
+]

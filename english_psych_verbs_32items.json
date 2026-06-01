@@ -1,0 +1,579 @@
+[
+  {
+    "id": "ES_norp_item1",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "norp",
+    "verb_definition": "Sometimes people norp each other.\nDo you know what norping means?\nNorping is when someone has something you really want.\nOr when you see someone and think, \"I wish I had that too\" — that's norping.\nNorping doesn't usually go away quickly.\nEvery time you see that person, you might norp them again.\nHave you ever norped someone?\nWhat's something you really love?\nIf your friend had that thing but you didn't, you might norp them.",
+    "story_part1": "Do you see Puppy and Monkey?\nPuppy always had beautiful new toys.\nMonkey only had one old toy.\nPuppy got new toys all the time,\nbut no one ever brought Monkey new toys.\nMonkey always thought Puppy was so lucky.",
+    "story_part2": "Do you see Monkey and Bunny?\nMonkey played outside every single day.\nBunny hardly ever got to play outside.\nMonkey could run whenever she wanted and eat chocolate whenever she wanted.\nBut Bunny couldn't do any of that.\nBunny always thought Monkey was so lucky.",
+    "test_question": "Who did Monkey norp?",
+    "answer_choices": {
+      "answer_1": "Puppy",
+      "answer_2": "Bunny"
+    },
+    "target_animal": "puppy",
+    "eo_answer": "answer_2",
+    "expected_preference": "ES",
+    "notes": "ES item: experiencer=Monkey, ES-target=Puppy (story1), EO-target=Bunny (story2)"
+  },
+  {
+    "id": "ES_norp_item2",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "norp",
+    "verb_definition": "Sometimes people norp each other.\nDo you know what norping means?\nNorping is when someone has something you really want.\nOr when you see someone and think, \"I wish I had that too\" — that's norping.\nNorping doesn't usually go away quickly.\nEvery time you see that person, you might norp them again.\nHave you ever norped someone?\nWhat's something you really love?\nIf your friend had that thing but you didn't, you might norp them.",
+    "story_part1": "Do you see Bunny and Puppy?\nBunny always went to the park to play.\nBunny could swing on the swings whenever she wanted.\nPuppy couldn't play those kinds of games,\nand often played alone at home.\nPuppy always thought Bunny was so lucky.",
+    "story_part2": "Do you see Bunny and Monkey?\nMonkey had lots of beautiful new toy cars and helicopters.\nBunny only had one old little helicopter.\nMonkey got planes and cars all the time,\nbut Bunny never got new toys like that.\nBunny always thought Monkey was so lucky.",
+    "test_question": "Who did Bunny norp?",
+    "answer_choices": {
+      "answer_1": "Monkey",
+      "answer_2": "Puppy"
+    },
+    "target_animal": "monkey",
+    "eo_answer": "answer_2",
+    "expected_preference": "ES",
+    "notes": "ES item: experiencer=Bunny, ES-target=Monkey (story2), EO-target=Puppy (story1)"
+  },
+  {
+    "id": "ES_norp_item3",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "norp",
+    "verb_definition": "Sometimes people norp each other.\nDo you know what norping means?\nNorping is when someone has something you really want.\nOr when you see someone and think, \"I wish I had that too\" — that's norping.\nNorping doesn't usually go away quickly.\nEvery time you see that person, you might norp them again.\nHave you ever norped someone?\nWhat's something you really love?\nIf your friend had that thing but you didn't, you might norp them.",
+    "story_part1": "Do you see Puppy and Bunny?\nBunny watched all kinds of cartoons every day.\nBunny had a big new TV at home.\nPuppy didn't have a TV at home.\nBunny could watch any cartoon she wanted,\nbut Puppy couldn't do that.\nPuppy always thought Bunny was so lucky.",
+    "story_part2": "Do you see Puppy and Monkey?\nPuppy always got new presents.\nMonkey hardly ever got any presents.\nMonkey could only look at her old gift.\nMonkey had no new presents at all.\nMonkey always thought Puppy was so lucky.",
+    "test_question": "Who did Puppy norp?",
+    "answer_choices": {
+      "answer_1": "Bunny",
+      "answer_2": "Monkey"
+    },
+    "target_animal": "bunny",
+    "eo_answer": "answer_2",
+    "expected_preference": "ES",
+    "notes": "ES item: experiencer=Puppy, ES-target=Bunny (story1), EO-target=Monkey (story2)"
+  },
+  {
+    "id": "ES_norp_item4",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "norp",
+    "verb_definition": "Sometimes people norp each other.\nDo you know what norping means?\nNorping is when someone has something you really want.\nOr when you see someone and think, \"I wish I had that too\" — that's norping.\nNorping doesn't usually go away quickly.\nEvery time you see that person, you might norp them again.\nHave you ever norped someone?\nWhat's something you really love?\nIf your friend had that thing but you didn't, you might norp them.",
+    "story_part1": "Do you see Puppy and Bunny?\nBunny had lots of candy and lollipops.\nPuppy only had one piece of candy.\nBunny always got new candy.\nPuppy never got new candy.\nPuppy always thought Bunny was so lucky.",
+    "story_part2": "Do you see Monkey and Bunny?\nMonkey ate delicious food every single day.\nBunny always ate plain ordinary food.\nMonkey got yummy meals brought to her every day.\nMonkey could eat whatever she wanted,\nbut Bunny couldn't do that.\nBunny always thought Monkey was so lucky.",
+    "test_question": "Who did Bunny norp?",
+    "answer_choices": {
+      "answer_1": "Monkey",
+      "answer_2": "Puppy"
+    },
+    "target_animal": "monkey",
+    "eo_answer": "answer_2",
+    "expected_preference": "ES",
+    "notes": "ES item: experiencer=Bunny, ES-target=Monkey (story2), EO-target=Puppy (story1)"
+  },
+  {
+    "id": "ES_norp_item5",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "norp",
+    "verb_definition": "Sometimes people norp each other.\nDo you know what norping means?\nNorping is when someone has something you really want.\nOr when you see someone and think, \"I wish I had that too\" — that's norping.\nNorping doesn't usually go away quickly.\nEvery time you see that person, you might norp them again.\nHave you ever norped someone?\nWhat's something you really love?\nIf your friend had that thing but you didn't, you might norp them.",
+    "story_part1": "Do you see Puppy and Monkey?\nMonkey read all kinds of books every day.\nPuppy only had one old book.\nMonkey could read any book she wanted,\nbut Puppy couldn't do that.\nPuppy always thought Monkey was so lucky.",
+    "story_part2": "Do you see Puppy and Bunny?\nPuppy ate delicious sweets every single day.\nPuppy always had yummy cakes at home.\nBunny only ate a small plain pie.\nBunny had no cake at home.\nBunny always thought Puppy was so lucky.",
+    "test_question": "Who did Puppy norp?",
+    "answer_choices": {
+      "answer_1": "Monkey",
+      "answer_2": "Bunny"
+    },
+    
+    "target_animal": "monkey",
+    "eo_answer": "answer_2",
+    "expected_preference": "ES",
+    "notes": "ES item: experiencer=Puppy, ES-target=Monkey (story1), EO-target=Bunny (story2)"
+  },
+  {
+    "id": "ES_norp_item6",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "norp",
+    "verb_definition": "Sometimes people norp each other.\nDo you know what norping means?\nNorping is when someone has something you really want.\nOr when you see someone and think, \"I wish I had that too\" — that's norping.\nNorping doesn't usually go away quickly.\nEvery time you see that person, you might norp them again.\nHave you ever norped someone?\nWhat's something you really love?\nIf your friend had that thing but you didn't, you might norp them.",
+    "story_part1": "Do you see Bunny and Monkey?\nMonkey always ate yummy food.\nBunny couldn't eat whatever food she wanted.\nMonkey got taken to cafes and restaurants all the time.\nMonkey always got whatever food she wanted.\nBut Bunny hardly ever went to restaurants.\nBunny always thought Monkey was so lucky.",
+    "story_part2": "Do you see Bunny and Puppy?\nBunny had lots of coloring books.\nShe always got new drawing books.\nPuppy only had one already-colored book.\nPuppy hardly ever got new drawing books.\nPuppy always thought Bunny was so lucky.",
+    "test_question": "Who did Bunny norp?",
+    "answer_choices": {
+      "answer_1": "Monkey",
+      "answer_2": "Puppy"
+    },
+    "target_animal": "monkey",
+    "eo_answer": "answer_2",
+    "expected_preference": "ES",
+    "notes": "ES item: experiencer=Bunny, ES-target=Monkey (story1), EO-target=Puppy (story2)"
+  },
+  {
+    "id": "ES_norp_item7",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "norp",
+    "verb_definition": "Sometimes people norp each other.\nDo you know what norping means?\nNorping is when someone has something you really want.\nOr when you see someone and think, \"I wish I had that too\" — that's norping.\nNorping doesn't usually go away quickly.\nEvery time you see that person, you might norp them again.\nHave you ever norped someone?\nWhat's something you really love?\nIf your friend had that thing but you didn't, you might norp them.",
+    "story_part1": "Do you see Monkey and Puppy?\nMonkey had lots of new shoes.\nMonkey always got new sneakers.\nPuppy had very few shoes —\njust one old pair of sneakers.\nPuppy hardly ever got new shoes.\nPuppy always thought Monkey was so lucky.",
+    "story_part2": "Do you see Bunny and Monkey?\nBunny played football outside every day.\nBunny could go outside to play whenever she wanted.\nMonkey mostly sat at home bored,\nand hardly ever went outside.\nMonkey always thought Bunny was so lucky.",
+    "test_question": "Who did Monkey norp?",
+    "answer_choices": {
+      "answer_1": "Bunny",
+      "answer_2": "Puppy"
+    },
+    "target_animal": "bunny",
+    "eo_answer": "answer_2",
+    "expected_preference": "ES",
+    "notes": "ES item: experiencer=Monkey, ES-target=Bunny (story2), EO-target=Puppy (story1)"
+  },
+  {
+    "id": "ES_norp_item8",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "norp",
+    "verb_definition": "Sometimes people norp each other.\nDo you know what norping means?\nNorping is when someone has something you really want.\nOr when you see someone and think, \"I wish I had that too\" — that's norping.\nNorping doesn't usually go away quickly.\nEvery time you see that person, you might norp them again.\nHave you ever norped someone?\nWhat's something you really love?\nIf your friend had that thing but you didn't, you might norp them.",
+    "story_part1": "Do you see Monkey and Puppy?\nMonkey had lots of new clothes.\nMonkey always got new outfits.\nPuppy had very few clothes.\nPuppy never got new clothes.\nPuppy always thought Monkey was so lucky.",
+    "story_part2": "Do you see Bunny and Monkey?\nBunny had beautiful new toys.\nMonkey only had one old toy.\nBunny always got new toys,\nbut Monkey never got new toys.\nMonkey always thought Bunny was so lucky.",
+    "test_question": "Who did Monkey norp?",
+    "answer_choices": {
+      "answer_1": "Bunny",
+      "answer_2": "Puppy"
+    },
+    "target_animal": "bunny",
+    "eo_answer": "answer_2",
+    "expected_preference": "ES",
+    "notes": "ES item: experiencer=Monkey, ES-target=Bunny (story2), EO-target=Puppy (story1)"
+  },
+  {
+    "id": "EO_frum_item1",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "frum",
+    "verb_definition": "Sometimes people frum each other.\nDo you know what fruming means?\nFruming is when something totally unexpected happens and you go \"wow!\"\nFor example, if a friend you thought was far away suddenly appears in front of you,\nor if someone gives you a surprise gift you didn't expect — that's fruming.\nFruming happens fast and is over quickly.\nIt doesn't last very long.\nHave you ever frumed someone?\nWhat kinds of things make you frum?",
+    "story_part1": "Do you see Bunny and Puppy?\nOne day Bunny was playing with Puppy.\nBunny wasn't expecting anything.\nSuddenly Puppy showed Bunny a little toy from inside a box.\nBunny didn't expect that at all.\nBunny's mouth fell wide open.",
+    "story_part2": "Do you see Monkey and Bunny?\nOne day Bunny was with Monkey.\nMonkey had no idea what was about to happen.\nSuddenly Bunny put on a funny mask.\nMonkey didn't expect that at all.\nMonkey's mouth fell wide open.",
+    "test_question": "Who did Bunny frum?",
+    "answer_choices": {
+      "answer_1": "Puppy",
+      "answer_2": "Monkey"
+    },
+    "target_animal": "monkey",
+    "eo_answer": "answer_2",
+    "expected_preference": "EO",
+    "notes": "EO item: causer=Bunny, ES-target=Puppy (story1), EO-target=Monkey (story2)"
+  },
+  {
+    "id": "EO_frum_item2",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "frum",
+    "verb_definition": "Sometimes people frum each other.\nDo you know what fruming means?\nFruming is when something totally unexpected happens and you go \"wow!\"\nFor example, if a friend you thought was far away suddenly appears in front of you,\nor if someone gives you a surprise gift you didn't expect — that's fruming.\nFruming happens fast and is over quickly.\nIt doesn't last very long.\nHave you ever frumed someone?\nWhat kinds of things make you frum?",
+    "story_part1": "Do you see Monkey and Puppy?\nOne day Puppy was playing with Monkey.\nPuppy had no idea what was about to happen.\nSuddenly Monkey pulled out a giant lollipop from behind her back and showed it to Puppy.\nPuppy didn't expect that at all.\nPuppy's mouth fell wide open.",
+    "story_part2": "Do you see Bunny and Monkey?\nOne day Monkey was walking in the forest.\nMonkey wasn't expecting anything.\nSuddenly Bunny jumped out from behind a tree.\nMonkey didn't expect that at all.\nMonkey's mouth fell wide open.",
+    "test_question": "Who did Monkey frum?",
+    "answer_choices": {
+      "answer_1": "Bunny",
+      "answer_2": "Puppy"
+    },
+    "target_animal": "puppy",
+    "eo_answer": "answer_2",
+    "expected_preference": "EO",
+    "notes": "EO item: causer=Monkey, ES-target=Bunny (story2), EO-target=Puppy (story1)"
+  },
+  {
+    "id": "EO_frum_item3",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "frum",
+    "verb_definition": "Sometimes people frum each other.\nDo you know what fruming means?\nFruming is when something totally unexpected happens and you go \"wow!\"\nFor example, if a friend you thought was far away suddenly appears in front of you,\nor if someone gives you a surprise gift you didn't expect — that's fruming.\nFruming happens fast and is over quickly.\nIt doesn't last very long.\nHave you ever frumed someone?\nWhat kinds of things make you frum?",
+    "story_part1": "Do you see Bunny and Puppy?\nOne day Bunny and Puppy went to the beach together.\nPuppy had brought ice cream along.\nBut Bunny had no idea about this.\nWhen Puppy pulled out the ice cream from the backpack,\nBunny cried out wow! Because Bunny didn't expect that at all.",
+    "story_part2": "Do you see Monkey and Bunny?\nOne day Bunny was playing in the yard with Monkey.\nMonkey wasn't expecting anything at all.\nSuddenly Bunny started squirting water at Monkey with a toy water gun.\nThis was totally unexpected for Monkey.\nMonkey cried out wow!",
+    "test_question": "Who did Bunny frum?",
+    "answer_choices": {
+      "answer_1": "Puppy",
+      "answer_2": "Monkey"
+    },
+    "target_animal": "monkey",
+    "eo_answer": "answer_2",
+    "expected_preference": "EO",
+    "notes": "EO item: causer=Bunny, ES-target=Puppy (story1), EO-target=Monkey (story2)"
+  },
+  {
+    "id": "EO_frum_item4",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "frum",
+    "verb_definition": "Sometimes people frum each other.\nDo you know what fruming means?\nFruming is when something totally unexpected happens and you go \"wow!\"\nFor example, if a friend you thought was far away suddenly appears in front of you,\nor if someone gives you a surprise gift you didn't expect — that's fruming.\nFruming happens fast and is over quickly.\nIt doesn't last very long.\nHave you ever frumed someone?\nWhat kinds of things make you frum?",
+    "story_part1": "Do you see Monkey and Bunny?\nOne day Bunny and Monkey were playing together.\nBunny had no idea what was about to happen.\nSuddenly Monkey pulled out a big ball from behind her back.\nBunny didn't expect that at all.\nBunny cried out wow!",
+    "story_part2": "Do you see Puppy and Monkey?\nOne day Monkey and Puppy were drawing together.\nMonkey had no idea what was about to happen.\nSuddenly Puppy gave Monkey a beautiful gift.\nThis was totally unexpected for Monkey.\nMonkey's mouth fell wide open.",
+    "test_question": "Who did Monkey frum?",
+    "answer_choices": {
+      "answer_1": "Puppy",
+      "answer_2": "Bunny"
+    },
+    "target_animal": "bunny",
+    "eo_answer": "answer_2",
+    "expected_preference": "EO",
+    "notes": "EO item: causer=Monkey, ES-target=Puppy (story2), EO-target=Bunny (story1)"
+  },
+  {
+    "id": "EO_frum_item5",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "frum",
+    "verb_definition": "Sometimes people frum each other.\nDo you know what fruming means?\nFruming is when something totally unexpected happens and you go \"wow!\"\nFor example, if a friend you thought was far away suddenly appears in front of you,\nor if someone gives you a surprise gift you didn't expect — that's fruming.\nFruming happens fast and is over quickly.\nIt doesn't last very long.\nHave you ever frumed someone?\nWhat kinds of things make you frum?",
+    "story_part1": "Do you see Bunny and Monkey?\nOne day Monkey and Bunny were playing ball together.\nThen Bunny disappeared.\nMonkey had no idea what was happening.\nSuddenly Bunny jumped out from behind a tree.\nMonkey didn't expect that at all. Monkey cried out wow!",
+    "story_part2": "Do you see Monkey and Puppy?\nOne day Puppy and Monkey were playing together.\nThen Monkey disappeared, and suddenly came back with a big cake in her hands.\nBecause today was Puppy's birthday.\nBut Puppy wasn't expecting anything at all.\nPuppy's mouth fell wide open.",
+    "test_question": "Who did Monkey frum?",
+    "answer_choices": {
+      "answer_1": "Bunny",
+      "answer_2": "Puppy"
+    },
+    "target_animal": "puppy",
+    "eo_answer": "answer_2",
+    "expected_preference": "EO",
+    "notes": "EO item: causer=Monkey, ES-target=Bunny (story1), EO-target=Puppy (story2)"
+  },
+  {
+    "id": "EO_frum_item6",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "frum",
+    "verb_definition": "Sometimes people frum each other.\nDo you know what fruming means?\nFruming is when something totally unexpected happens and you go \"wow!\"\nFor example, if a friend you thought was far away suddenly appears in front of you,\nor if someone gives you a surprise gift you didn't expect — that's fruming.\nFruming happens fast and is over quickly.\nIt doesn't last very long.\nHave you ever frumed someone?\nWhat kinds of things make you frum?",
+    "story_part1": "Do you see Bunny and Puppy?\nOne day Bunny and Puppy were playing lego together.\nSuddenly Puppy put on big glasses and a funny moustache mask.\nBunny had no idea this was coming.\nThis was totally unexpected for Bunny.\nBunny was amazed.",
+    "story_part2": "Do you see Monkey and Puppy?\nOne day Puppy and Monkey were eating cake together.\nPuppy had no idea what was happening.\nSuddenly Monkey pulled a big box from under the table.\nBecause today was Puppy's birthday.\nThis happened completely out of the blue for Puppy.\nPuppy cried out wow!",
+    "test_question": "Who did Puppy frum?",
+    "answer_choices": {
+      "answer_1": "Monkey",
+      "answer_2": "Bunny"
+    },
+    "target_animal": "bunny",
+    "eo_answer": "answer_2",
+    "expected_preference": "EO",
+    "notes": "EO item: causer=Puppy, ES-target=Monkey (story2), EO-target=Bunny (story1)"
+  },
+  {
+    "id": "EO_frum_item7",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "frum",
+    "verb_definition": "Sometimes people frum each other.\nDo you know what fruming means?\nFruming is when something totally unexpected happens and you go \"wow!\"\nFor example, if a friend you thought was far away suddenly appears in front of you,\nor if someone gives you a surprise gift you didn't expect — that's fruming.\nFruming happens fast and is over quickly.\nIt doesn't last very long.\nHave you ever frumed someone?\nWhat kinds of things make you frum?",
+    "story_part1": "Do you see Bunny and Monkey?\nOne day Monkey and Bunny were drawing together.\nMonkey had no idea what was about to happen.\nSuddenly Bunny gave Monkey a beautiful present.\nBecause today was New Year's Day.\nThis was totally unexpected for Monkey.\nMonkey was amazed.",
+    "story_part2": "Do you see Monkey and Puppy?\nOne day Puppy and Monkey were playing together.\nPuppy had no idea what was happening.\nSuddenly Monkey pulled out a big bone from behind her back and showed it to Puppy.\nPuppy didn't expect that at all.\nPuppy's mouth fell wide open.",
+    "test_question": "Who did Monkey frum?",
+    "answer_choices": {
+      "answer_1": "Bunny",
+      "answer_2": "Puppy"
+    },
+    "target_animal": "puppy",
+    "eo_answer": "answer_2",
+    "expected_preference": "EO",
+    "notes": "EO item: causer=Monkey, ES-target=Bunny (story1), EO-target=Puppy (story2)"
+  },
+  {
+    "id": "EO_frum_item8",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "frum",
+    "verb_definition": "Sometimes people frum each other.\nDo you know what fruming means?\nFruming is when something totally unexpected happens and you go \"wow!\"\nFor example, if a friend you thought was far away suddenly appears in front of you,\nor if someone gives you a surprise gift you didn't expect — that's fruming.\nFruming happens fast and is over quickly.\nIt doesn't last very long.\nHave you ever frumed someone?\nWhat kinds of things make you frum?",
+    "story_part1": "Do you see Bunny and Puppy?\nOne day Bunny and Puppy were playing lego together.\nSuddenly Bunny put on a big lion mask.\nPuppy had no idea this was coming.\nThis was totally unexpected for Puppy.\nPuppy was amazed.",
+    "story_part2": "Do you see Puppy and Monkey?\nOne day Puppy and Monkey were playing in the sand by the sea.\nMonkey had no idea what was about to happen.\nSuddenly Puppy found a big kite from somewhere and brought it over.\nMonkey didn't expect that at all.\nMonkey cried out wow with delight.",
+    "test_question": "Who did Puppy frum?",
+    "answer_choices": {
+      "answer_1": "Bunny",
+      "answer_2": "Monkey"
+    },
+    "target_animal": "monkey",
+    "eo_answer": "answer_2",
+    "expected_preference": "EO",
+    "notes": "EO item: causer=Puppy, ES-target=Bunny (story1), EO-target=Monkey (story2)"
+  },
+  {
+    "id": "ES_frum_item1",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "frum",
+    "verb_definition": "Sometimes people frum each other.\nDo you know what fruming means?\nFruming is when someone has something you really want.\nOr when you see someone and think, \"I wish I had that too\" — that's fruming.\nFruming doesn't usually go away quickly.\nEvery time you see that person, you might frum them again.\nHave you ever frumed someone?\nWhat's something you really love?\nIf your friend had that thing but you didn't, you might frum them.",
+    "story_part1": "Do you see Puppy and Monkey?\nPuppy always had beautiful new toys.\nMonkey only had one old toy.\nPuppy got new toys all the time,\nbut no one ever brought Monkey new toys.\nMonkey always thought Puppy was so lucky.",
+    "story_part2": "Do you see Monkey and Bunny?\nMonkey played outside every single day.\nBunny hardly ever got to play outside.\nMonkey could run whenever she wanted and eat chocolate whenever she wanted.\nBut Bunny couldn't do any of that.\nBunny always thought Monkey was so lucky.",
+    "test_question": "Who did Monkey frum?",
+    "answer_choices": {
+      "answer_1": "Puppy",
+      "answer_2": "Bunny"
+    },
+    "target_animal": "puppy",
+    "eo_answer": "answer_2",
+    "expected_preference": "ES",
+    "notes": "ES item: experiencer=Monkey, ES-target=Puppy (story1), EO-target=Bunny (story2)"
+  },
+  {
+    "id": "ES_frum_item2",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "frum",
+    "verb_definition": "Sometimes people frum each other.\nDo you know what fruming means?\nFruming is when someone has something you really want.\nOr when you see someone and think, \"I wish I had that too\" — that's fruming.\nFruming doesn't usually go away quickly.\nEvery time you see that person, you might frum them again.\nHave you ever frumed someone?\nWhat's something you really love?\nIf your friend had that thing but you didn't, you might frum them.",
+    "story_part1": "Do you see Bunny and Puppy?\nBunny always went to the park to play.\nBunny could swing on the swings whenever she wanted.\nPuppy couldn't play those kinds of games,\nand often played alone at home.\nPuppy always thought Bunny was so lucky.",
+    "story_part2": "Do you see Bunny and Monkey?\nMonkey had lots of beautiful new toy cars and helicopters.\nBunny only had one old little helicopter.\nMonkey got planes and cars all the time,\nbut Bunny never got new toys like that.\nBunny always thought Monkey was so lucky.",
+    "test_question": "Who did Bunny frum?",
+    "answer_choices": {
+      "answer_1": "Monkey",
+      "answer_2": "Puppy"
+    },
+    "target_animal": "monkey",
+    "eo_answer": "answer_2",
+    "expected_preference": "ES",
+    "notes": "ES item: experiencer=Bunny, ES-target=Monkey (story2), EO-target=Puppy (story1)"
+  },
+  {
+    "id": "ES_frum_item3",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "frum",
+    "verb_definition": "Sometimes people frum each other.\nDo you know what fruming means?\nFruming is when someone has something you really want.\nOr when you see someone and think, \"I wish I had that too\" — that's fruming.\nFruming doesn't usually go away quickly.\nEvery time you see that person, you might frum them again.\nHave you ever frumed someone?\nWhat's something you really love?\nIf your friend had that thing but you didn't, you might frum them.",
+    "story_part1": "Do you see Puppy and Bunny?\nBunny watched all kinds of cartoons every day.\nBunny had a big new TV at home.\nPuppy didn't have a TV at home.\nBunny could watch any cartoon she wanted,\nbut Puppy couldn't do that.\nPuppy always thought Bunny was so lucky.",
+    "story_part2": "Do you see Puppy and Monkey?\nPuppy always got new presents.\nMonkey hardly ever got any presents.\nMonkey could only look at her old gift.\nMonkey had no new presents at all.\nMonkey always thought Puppy was so lucky.",
+    "test_question": "Who did Puppy frum?",
+    "answer_choices": {
+      "answer_1": "Bunny",
+      "answer_2": "Monkey"
+    },
+    "target_animal": "bunny",
+    "eo_answer": "answer_2",
+    "expected_preference": "ES",
+    "notes": "ES item: experiencer=Puppy, ES-target=Bunny (story1), EO-target=Monkey (story2)"
+  },
+  {
+    "id": "ES_frum_item4",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "frum",
+    "verb_definition": "Sometimes people frum each other.\nDo you know what fruming means?\nFruming is when someone has something you really want.\nOr when you see someone and think, \"I wish I had that too\" — that's fruming.\nFruming doesn't usually go away quickly.\nEvery time you see that person, you might frum them again.\nHave you ever frumed someone?\nWhat's something you really love?\nIf your friend had that thing but you didn't, you might frum them.",
+    "story_part1": "Do you see Puppy and Bunny?\nBunny had lots of candy and lollipops.\nPuppy only had one piece of candy.\nBunny always got new candy.\nPuppy never got new candy.\nPuppy always thought Bunny was so lucky.",
+    "story_part2": "Do you see Monkey and Bunny?\nMonkey ate delicious food every single day.\nBunny always ate plain ordinary food.\nMonkey got yummy meals brought to her every day.\nMonkey could eat whatever she wanted,\nbut Bunny couldn't do that.\nBunny always thought Monkey was so lucky.",
+    "test_question": "Who did Bunny frum?",
+    "answer_choices": {
+      "answer_1": "Monkey",
+      "answer_2": "Puppy"
+    },
+    "target_animal": "monkey",
+    "eo_answer": "answer_2",
+    "expected_preference": "ES",
+    "notes": "ES item: experiencer=Bunny, ES-target=Monkey (story2), EO-target=Puppy (story1)"
+  },
+  {
+    "id": "ES_frum_item5",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "frum",
+    "verb_definition": "Sometimes people frum each other.\nDo you know what fruming means?\nFruming is when someone has something you really want.\nOr when you see someone and think, \"I wish I had that too\" — that's fruming.\nfruming doesn't usually go away quickly.\nEvery time you see that person, you might frum them again.\nHave you ever frumed someone?\nWhat's something you really love?\nIf your friend had that thing but you didn't, you might frum them.",
+    "story_part1": "Do you see Puppy and Monkey?\nMonkey read all kinds of books every day.\nPuppy only had one old book.\nMonkey could read any book she wanted,\nbut Puppy couldn't do that.\nPuppy always thought Monkey was so lucky.",
+    "story_part2": "Do you see Puppy and Bunny?\nPuppy ate delicious sweets every single day.\nPuppy always had yummy cakes at home.\nBunny only ate a small plain pie.\nBunny had no cake at home.\nBunny always thought Puppy was so lucky.",
+    "test_question": "Who did Puppy frum?",
+    "answer_choices": {
+      "answer_1": "Monkey",
+      "answer_2": "Bunny"
+    },
+    "target_animal": "monkey",
+    "eo_answer": "answer_2",
+    "expected_preference": "ES",
+    "notes": "ES item: experiencer=Puppy, ES-target=Monkey (story1), EO-target=Bunny (story2)"
+  },
+  {
+    "id": "ES_frum_item6",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "frum",
+    "verb_definition": "Sometimes people frum each other.\nDo you know what fruming means?\nFruming is when someone has something you really want.\nOr when you see someone and think, \"I wish I had that too\" — that's fruming.\nFruming doesn't usually go away quickly.\nEvery time you see that person, you might frum them again.\nHave you ever frumed someone?\nWhat's something you really love?\nIf your friend had that thing but you didn't, you might frum them.",
+    "story_part1": "Do you see Bunny and Monkey?\nMonkey always ate yummy food.\nBunny couldn't eat whatever food she wanted.\nMonkey got taken to cafes and restaurants all the time.\nMonkey always got whatever food she wanted.\nBut Bunny hardly ever went to restaurants.\nBunny always thought Monkey was so lucky.",
+    "story_part2": "Do you see Bunny and Puppy?\nBunny had lots of coloring books.\nShe always got new drawing books.\nPuppy only had one already-colored book.\nPuppy hardly ever got new drawing books.\nPuppy always thought Bunny was so lucky.",
+    "test_question": "Who did Bunny frum?",
+    "answer_choices": {
+      "answer_1": "Monkey",
+      "answer_2": "Puppy"
+    },
+    "target_animal": "monkey",
+    "eo_answer": "answer_2",
+    "expected_preference": "ES",
+    "notes": "ES item: experiencer=Bunny, ES-target=Monkey (story1), EO-target=Puppy (story2)"
+  },
+  {
+    "id": "ES_frum_item7",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "frum",
+    "verb_definition": "Sometimes people frum each other.\nDo you know what fruming means?\nFruming is when someone has something you really want.\nOr when you see someone and think, \"I wish I had that too\" — that's fruming.\nFruming doesn't usually go away quickly.\nEvery time you see that person, you might frum them again.\nHave you ever frumed someone?\nWhat's something you really love?\nIf your friend had that thing but you didn't, you might frum them.",
+    "story_part1": "Do you see Monkey and Puppy?\nMonkey had lots of new shoes.\nMonkey always got new sneakers.\nPuppy had very few shoes —\njust one old pair of sneakers.\nPuppy hardly ever got new shoes.\nPuppy always thought Monkey was so lucky.",
+    "story_part2": "Do you see Bunny and Monkey?\nBunny played football outside every day.\nBunny could go outside to play whenever she wanted.\nMonkey mostly sat at home bored,\nand hardly ever went outside.\nMonkey always thought Bunny was so lucky.",
+    "test_question": "Who did Monkey frum?",
+    "answer_choices": {
+      "answer_1": "Bunny",
+      "answer_2": "Puppy"
+    },
+    "target_animal": "bunny",
+    "eo_answer": "answer_2",
+    "expected_preference": "ES",
+    "notes": "ES item: experiencer=Monkey, ES-target=Bunny (story2), EO-target=Puppy (story1)"
+  },
+  {
+    "id": "ES_frum_item8",
+    "condition": "ES",
+    "semantic_framing": "habitual",
+    "verb": "frum",
+    "verb_definition": "Sometimes people frum each other.\nDo you know what fruming means?\nFruming is when someone has something you really want.\nOr when you see someone and think, \"I wish I had that too\" — that's fruming.\nFruming doesn't usually go away quickly.\nEvery time you see that person, you might frum them again.\nHave you ever frumed someone?\nWhat's something you really love?\nIf your friend had that thing but you didn't, you might frum them.",
+    "story_part1": "Do you see Monkey and Puppy?\nMonkey had lots of new clothes.\nMonkey always got new outfits.\nPuppy had very few clothes.\nPuppy never got new clothes.\nPuppy always thought Monkey was so lucky.",
+    "story_part2": "Do you see Bunny and Monkey?\nBunny had beautiful new toys.\nMonkey only had one old toy.\nBunny always got new toys,\nbut Monkey never got new toys.\nMonkey always thought Bunny was so lucky.",
+    "test_question": "Who did Monkey frum?",
+    "answer_choices": {
+      "answer_1": "Bunny",
+      "answer_2": "Puppy"
+    },
+    "target_animal": "bunny",
+    "eo_answer": "answer_2",
+    "expected_preference": "ES",
+    "notes": "ES item: experiencer=Monkey, ES-target=Bunny (story2), EO-target=Puppy (story1)"
+  },
+  {
+    "id": "EO_norp_item1",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "norp",
+    "verb_definition": "Sometimes people norp each other.\nDo you know what norping means?\nVorping is when something totally unexpected happens and you go \"wow!\"\nFor example, if a friend you thought was far away suddenly appears in front of you,\nor if someone gives you a surprise gift you didn't expect — that's norping.\nNorping happens fast and is over quickly.\nIt doesn't last very long.\nHave you ever norped someone?\nWhat kinds of things make you norp?",
+    "story_part1": "Do you see Bunny and Puppy?\nOne day Bunny was playing with Puppy.\nBunny wasn't expecting anything.\nSuddenly Puppy showed Bunny a little toy from inside a box.\nBunny didn't expect that at all.\nBunny's mouth fell wide open.",
+    "story_part2": "Do you see Monkey and Bunny?\nOne day Bunny was with Monkey.\nMonkey had no idea what was about to happen.\nSuddenly Bunny put on a funny mask.\nMonkey didn't expect that at all.\nMonkey's mouth fell wide open.",
+    "test_question": "Who did Bunny norp?",
+    "answer_choices": {
+      "answer_1": "Puppy",
+      "answer_2": "Monkey"
+    },
+    "target_animal": "monkey",
+    "eo_answer": "answer_2",
+    "expected_preference": "EO",
+    "notes": "EO item: causer=Bunny, ES-target=Puppy (story1), EO-target=Monkey (story2)"
+  },
+  {
+    "id": "EO_norp_item2",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "norp",
+    "verb_definition": "Sometimes people norp each other.\nDo you know what norping means?\nNorping is when something totally unexpected happens and you go \"wow!\"\nFor example, if a friend you thought was far away suddenly appears in front of you,\nor if someone gives you a surprise gift you didn't expect — that's norping.\nNorping happens fast and is over quickly.\nIt doesn't last very long.\nHave you ever norped someone?\nWhat kinds of things make you norp?",
+    "story_part1": "Do you see Monkey and Puppy?\nOne day Puppy was playing with Monkey.\nPuppy had no idea what was about to happen.\nSuddenly Monkey pulled out a giant lollipop from behind her back and showed it to Puppy.\nPuppy didn't expect that at all.\nPuppy's mouth fell wide open.",
+    "story_part2": "Do you see Bunny and Monkey?\nOne day Monkey was walking in the forest.\nMonkey wasn't expecting anything.\nSuddenly Bunny jumped out from behind a tree.\nMonkey didn't expect that at all.\nMonkey's mouth fell wide open.",
+    "test_question": "Who did Monkey norp?",
+    "answer_choices": {
+      "answer_1": "Bunny",
+      "answer_2": "Puppy"
+    },
+    "target_animal": "puppy",
+    "eo_answer": "answer_2",
+    "expected_preference": "EO",
+    "notes": "EO item: causer=Monkey, ES-target=Bunny (story2), EO-target=Puppy (story1)"
+  },
+  {
+    "id": "EO_norp_item3",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "norp",
+    "verb_definition": "Sometimes people norp each other.\nDo you know what norping means?\nNorping is when something totally unexpected happens and you go \"wow!\"\nFor example, if a friend you thought was far away suddenly appears in front of you,\nor if someone gives you a surprise gift you didn't expect — that's norping.\nNorping happens fast and is over quickly.\nIt doesn't last very long.\nHave you ever norped someone?\nWhat kinds of things make you norp?",
+    "story_part1": "Do you see Bunny and Puppy?\nOne day Bunny and Puppy went to the beach together.\nPuppy had brought ice cream along.\nBut Bunny had no idea about this.\nWhen Puppy pulled out the ice cream from the backpack,\nBunny cried out wow! Because Bunny didn't expect that at all.",
+    "story_part2": "Do you see Monkey and Bunny?\nOne day Bunny was playing in the yard with Monkey.\nMonkey wasn't expecting anything at all.\nSuddenly Bunny started squirting water at Monkey with a toy water gun.\nThis was totally unexpected for Monkey.\nMonkey cried out wow!",
+    "test_question": "Who did Bunny norp?",
+    "answer_choices": {
+      "answer_1": "Puppy",
+      "answer_2": "Monkey"
+    },
+    "target_animal": "monkey",
+    "eo_answer": "answer_2",
+    "expected_preference": "EO",
+    "notes": "EO item: causer=Bunny, ES-target=Puppy (story1), EO-target=Monkey (story2)"
+  },
+  {
+    "id": "EO_norp_item4",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "norp",
+    "verb_definition": "Sometimes people norp each other.\nDo you know what norping means?\nVorping is when something totally unexpected happens and you go \"wow!\"\nFor example, if a friend you thought was far away suddenly appears in front of you,\nor if someone gives you a surprise gift you didn't expect — that's norping.\nNorping happens fast and is over quickly.\nIt doesn't last very long.\nHave you ever norped someone?\nWhat kinds of things make you norp?",
+    "story_part1": "Do you see Monkey and Bunny?\nOne day Bunny and Monkey were playing together.\nBunny had no idea what was about to happen.\nSuddenly Monkey pulled out a big ball from behind her back.\nBunny didn't expect that at all.\nBunny cried out wow!",
+    "story_part2": "Do you see Puppy and Monkey?\nOne day Monkey and Puppy were drawing together.\nMonkey had no idea what was about to happen.\nSuddenly Puppy gave Monkey a beautiful gift.\nThis was totally unexpected for Monkey.\nMonkey's mouth fell wide open.",
+    "test_question": "Who did Monkey norp?",
+    "answer_choices": {
+      "answer_1": "Puppy",
+      "answer_2": "Bunny"
+    },
+    "target_animal": "bunny",
+    "eo_answer": "answer_2",
+    "expected_preference": "EO",
+    "notes": "EO item: causer=Monkey, ES-target=Puppy (story2), EO-target=Bunny (story1)"
+  },
+  {
+    "id": "EO_norp_item5",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "norp",
+    "verb_definition": "Sometimes people norp each other.\nDo you know what norping means?\nNorping is when something totally unexpected happens and you go \"wow!\"\nFor example, if a friend you thought was far away suddenly appears in front of you,\nor if someone gives you a surprise gift you didn't expect — that's norping.\nNorping happens fast and is over quickly.\nIt doesn't last very long.\nHave you ever norped someone?\nWhat kinds of things make you norp?",
+    "story_part1": "Do you see Bunny and Monkey?\nOne day Monkey and Bunny were playing ball together.\nThen Bunny disappeared.\nMonkey had no idea what was happening.\nSuddenly Bunny jumped out from behind a tree.\nMonkey didn't expect that at all. Monkey cried out wow!",
+    "story_part2": "Do you see Monkey and Puppy?\nOne day Puppy and Monkey were playing together.\nThen Monkey disappeared, and suddenly came back with a big cake in her hands.\nBecause today was Puppy's birthday.\nBut Puppy wasn't expecting anything at all.\nPuppy's mouth fell wide open.",
+    "test_question": "Who did Monkey norp?",
+    "answer_choices": {
+      "answer_1": "Bunny",
+      "answer_2": "Puppy"
+    },
+    "target_animal": "puppy",
+    "eo_answer": "answer_2",
+    "expected_preference": "EO",
+    "notes": "EO item: causer=Monkey, ES-target=Bunny (story1), EO-target=Puppy (story2)"
+  },
+  {
+    "id": "EO_norp_item6",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "norp",
+    "verb_definition": "Sometimes people norp each other.\nDo you know what norping means?\nNorping is when something totally unexpected happens and you go \"wow!\"\nFor example, if a friend you thought was far away suddenly appears in front of you,\nor if someone gives you a surprise gift you didn't expect — that's norping.\nNorping happens fast and is over quickly.\nIt doesn't last very long.\nHave you ever norped someone?\nWhat kinds of things make you norp?",
+    "story_part1": "Do you see Bunny and Puppy?\nOne day Bunny and Puppy were playing lego together.\nSuddenly Puppy put on big glasses and a funny moustache mask.\nBunny had no idea this was coming.\nThis was totally unexpected for Bunny.\nBunny was amazed.",
+    "story_part2": "Do you see Monkey and Puppy?\nOne day Puppy and Monkey were eating cake together.\nPuppy had no idea what was happening.\nSuddenly Monkey pulled a big box from under the table.\nBecause today was Puppy's birthday.\nThis happened completely out of the blue for Puppy.\nPuppy cried out wow!",
+    "test_question": "Who did Puppy norp?",
+    "answer_choices": {
+      "answer_1": "Monkey",
+      "answer_2": "Bunny"
+    },
+    "target_animal": "bunny",
+    "eo_answer": "answer_2",
+    "expected_preference": "EO",
+    "notes": "EO item: causer=Puppy, ES-target=Monkey (story2), EO-target=Bunny (story1)"
+  },
+  {
+    "id": "EO_norp_item7",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "norp",
+    "verb_definition": "Sometimes people norp each other.\nDo you know what norping means?\nNorping is when something totally unexpected happens and you go \"wow!\"\nFor example, if a friend you thought was far away suddenly appears in front of you,\nor if someone gives you a surprise gift you didn't expect — that's norping.\nNorping happens fast and is over quickly.\nIt doesn't last very long.\nHave you ever norped someone?\nWhat kinds of things make you norp?",
+    "story_part1": "Do you see Bunny and Monkey?\nOne day Monkey and Bunny were drawing together.\nMonkey had no idea what was about to happen.\nSuddenly Bunny gave Monkey a beautiful present.\nBecause today was New Year's Day.\nThis was totally unexpected for Monkey.\nMonkey was amazed.",
+    "story_part2": "Do you see Monkey and Puppy?\nOne day Puppy and Monkey were playing together.\nPuppy had no idea what was happening.\nSuddenly Monkey pulled out a big bone from behind her back and showed it to Puppy.\nPuppy didn't expect that at all.\nPuppy's mouth fell wide open.",
+    "test_question": "Who did Monkey norp?",
+    "answer_choices": {
+      "answer_1": "Bunny",
+      "answer_2": "Puppy"
+    },
+    "target_animal": "puppy",
+    "eo_answer": "answer_2",
+    "expected_preference": "EO",
+    "notes": "EO item: causer=Monkey, ES-target=Bunny (story1), EO-target=Puppy (story2)"
+  },
+  {
+    "id": "EO_norp_item8",
+    "condition": "EO",
+    "semantic_framing": "emotional",
+    "verb": "norp",
+    "verb_definition": "Sometimes people norp each other.\nDo you know what norping means?\nNorping is when something totally unexpected happens and you go \"wow!\"\nFor example, if a friend you thought was far away suddenly appears in front of you,\nor if someone gives you a surprise gift you didn't expect — that's norping.\nNorping happens fast and is over quickly.\nIt doesn't last very long.\nHave you ever norped someone?\nWhat kinds of things make you norp?",
+    "story_part1": "Do you see Bunny and Puppy?\nOne day Bunny and Puppy were playing lego together.\nSuddenly Bunny put on a big lion mask.\nPuppy had no idea this was coming.\nThis was totally unexpected for Puppy.\nPuppy was amazed.",
+    "story_part2": "Do you see Puppy and Monkey?\nOne day Puppy and Monkey were playing in the sand by the sea.\nMonkey had no idea what was about to happen.\nSuddenly Puppy found a big kite from somewhere and brought it over.\nMonkey didn't expect that at all.\nMonkey cried out wow with delight.",
+    "test_question": "Who did Puppy norp?",
+    "answer_choices": {
+      "answer_1": "Bunny",
+      "answer_2": "Monkey"
+    },
+    "target_animal": "monkey",
+    "eo_answer": "answer_2",
+    "expected_preference": "EO",
+    "notes": "EO item: causer=Puppy, ES-target=Bunny (story1), EO-target=Monkey (story2)"
+  }
+]
