@@ -40,14 +40,14 @@ This repository contains all materials for two empirical studies investigating w
 │
 ├── materials/
 │   ├── picture_prompts_with_stories.pdf  # Study 1: full stimulus booklet (Uzbek)
-│   ├── uzbek_psych_verbs_COMPLETE_32items.json  # Study 2 Phase 1: overt case marker stimuli
-│   ├── uzbek_psych_verbs_FINAL.json             # Study 2 Phase 2: no overt case marker stimuli
+│   ├── uzbek_psych_verbs_overtcase_32items.json  # Study 2 Phase 1: overt case marker stimuli
+│   ├── uzbek_psych_verbs_nocase.json             # Study 2 Phase 2: no overt case marker stimuli
 │   └── english_psych_verbs_32items.json         # Study 2 English extension stimuli
 │
 ├── code/
 │   ├── psych_verbs_analysis_and_plots.R  # Study 1: full analysis + plots (R)
-│   ├── testing.R                         # Study 2: Uzbek LLM results analysis (R)
-│   └── english.R                         # Study 2: English LLM results analysis (R)
+│   ├── inf_stat_Uzbek.R                         # Study 2: Uzbek LLM results analysis (R)
+│   └── inf_stat_english.R                         # Study 2: English LLM results analysis (R)
 │
 ├── notebooks/
 │   ├── overt_case_all5models.ipynb       # Study 2 Phase 1: Uzbek overt case (all 5 models)
