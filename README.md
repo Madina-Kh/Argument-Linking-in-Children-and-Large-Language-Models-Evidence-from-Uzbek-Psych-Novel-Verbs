@@ -151,7 +151,7 @@ Each JSON file contains a list of items. Each item includes:
 
 ## License
 
-- **Code** (R scripts, Python notebooks): [MIT License](LICENSE)
+- **Code** (R scripts, Python notebooks): Apache License 2.0
 - **Data and materials** (CSV, JSON, PDF): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
